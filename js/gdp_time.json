@@ -1,0 +1,20 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "Google's stock price over time.",
+  "title": "GDP per capita (1960 - 2020)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/BrianMwangi74/FIT3179_A2/master/data/time_data.json"
+  },
+  "height": 200,
+  "width": 500,
+  "mark": "area",
+  "encoding": {
+    "x": {"field": "Year", "type": "quantitative", "axis": {"tickCount": 5}},
+    "y": {"field": "GDP per capita", "type": "quantitative"},
+    "tooltip": [
+      {"field": "Year", "type": "quantitative"},
+      {"field": "GDP per capita", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
