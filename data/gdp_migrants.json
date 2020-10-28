@@ -1,0 +1,1255 @@
+[
+  {
+    "Country": "Afghanistan",
+    "ISO-code": "AFG",
+    "GDP per capita": 2182,
+    "Migrants (net)": -62920,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Albania",
+    "ISO-code": "ALB",
+    "GDP per capita": 14866,
+    "Migrants (net)": -14000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Algeria",
+    "ISO-code": "DZA",
+    "GDP per capita": 16091,
+    "Migrants (net)": -10000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Angola",
+    "ISO-code": "AGO",
+    "GDP per capita": 6763,
+    "Migrants (net)": 6413,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "ISO-code": "ATG",
+    "GDP per capita": 30593,
+    "Migrants (net)": 0,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Argentina",
+    "ISO-code": "ARG",
+    "GDP per capita": 19971,
+    "Migrants (net)": 4800,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Armenia",
+    "ISO-code": "ARM",
+    "GDP per capita": 11845,
+    "Migrants (net)": -4998,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Australia",
+    "ISO-code": "AUS",
+    "GDP per capita": 54799,
+    "Migrants (net)": 158246,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Austria",
+    "ISO-code": "AUT",
+    "GDP per capita": 55171,
+    "Migrants (net)": 65000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Azerbaijan",
+    "ISO-code": "AZE",
+    "GDP per capita": 19156,
+    "Migrants (net)": 1200,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bahrain",
+    "ISO-code": "BHR",
+    "GDP per capita": 51991,
+    "Migrants (net)": 47800,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bangladesh",
+    "ISO-code": "BGD",
+    "GDP per capita": 5453,
+    "Migrants (net)": -369501,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Barbados",
+    "ISO-code": "BRB",
+    "GDP per capita": 19364,
+    "Migrants (net)": -79,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Belarus",
+    "ISO-code": "BLR",
+    "GDP per capita": 21224,
+    "Migrants (net)": 8730,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Belgium",
+    "ISO-code": "BEL",
+    "GDP per capita": 50904,
+    "Migrants (net)": 48000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Belize",
+    "ISO-code": "BLZ",
+    "GDP per capita": 8791,
+    "Migrants (net)": 1200,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Benin",
+    "ISO-code": "BEN",
+    "GDP per capita": 3648,
+    "Migrants (net)": -2000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Bhutan",
+    "ISO-code": "BTN",
+    "GDP per capita": 10627,
+    "Migrants (net)": 320,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bolivia",
+    "ISO-code": "BOL",
+    "GDP per capita": 8525,
+    "Migrants (net)": -9504,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "ISO-code": "BIH",
+    "GDP per capita": 14894,
+    "Migrants (net)": -21585,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Botswana",
+    "ISO-code": "BWA",
+    "GDP per capita": 19388,
+    "Migrants (net)": 3000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Brazil",
+    "ISO-code": "BRA",
+    "GDP per capita": 17106,
+    "Migrants (net)": 21200,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Brunei",
+    "ISO-code": "BRN",
+    "GDP per capita": 85011,
+    "Migrants (net)": 0,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bulgaria",
+    "ISO-code": "BGR",
+    "GDP per capita": 26034,
+    "Migrants (net)": -4800,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Burkina Faso",
+    "ISO-code": "BFA",
+    "GDP per capita": 2181,
+    "Migrants (net)": -25000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Burundi",
+    "ISO-code": "BDI",
+    "GDP per capita": 724,
+    "Migrants (net)": 2001,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Cambodia",
+    "ISO-code": "KHM",
+    "GDP per capita": 5004,
+    "Migrants (net)": -30000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Cameroon",
+    "ISO-code": "CMR",
+    "GDP per capita": 4099,
+    "Migrants (net)": -4800,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Canada",
+    "ISO-code": "CAN",
+    "GDP per capita": 52144,
+    "Migrants (net)": 242032,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Cape Verde",
+    "ISO-code": "CPV",
+    "GDP per capita": 8716,
+    "Migrants (net)": -1342,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Central African Republic",
+    "ISO-code": "CAF",
+    "GDP per capita": 864,
+    "Migrants (net)": -40000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Chad",
+    "ISO-code": "TCD",
+    "GDP per capita": 2603,
+    "Migrants (net)": 2000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Chile",
+    "ISO-code": "CHL",
+    "GDP per capita": 27150,
+    "Migrants (net)": 111708,
+    "Continent": "South America"
+  },
+  {
+    "Country": "China",
+    "ISO-code": "CHN",
+    "GDP per capita": 20984,
+    "Migrants (net)": -348399,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Colombia",
+    "ISO-code": "COL",
+    "GDP per capita": 16265,
+    "Migrants (net)": 204796,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Comoros",
+    "ISO-code": "COM",
+    "GDP per capita": 2898,
+    "Migrants (net)": -2000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Costa Rica",
+    "ISO-code": "CRI",
+    "GDP per capita": 18651,
+    "Migrants (net)": 4200,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Croatia",
+    "ISO-code": "HRV",
+    "GDP per capita": 29207,
+    "Migrants (net)": -8001,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Cuba",
+    "ISO-code": "CUB",
+    "GDP per capita": 8822,
+    "Migrants (net)": -14400,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Cyprus",
+    "ISO-code": "CYP",
+    "GDP per capita": 42956,
+    "Migrants (net)": 5000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Czech Republic",
+    "ISO-code": "CZE",
+    "GDP per capita": 40585,
+    "Migrants (net)": 22011,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "ISO-code": "COD",
+    "GDP per capita": 873,
+    "Migrants (net)": 23861,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Denmark",
+    "ISO-code": "DNK",
+    "GDP per capita": 55675,
+    "Migrants (net)": 15200,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Djibouti",
+    "ISO-code": "DJI",
+    "GDP per capita": 5855,
+    "Migrants (net)": 900,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Dominican Republic",
+    "ISO-code": "DOM",
+    "GDP per capita": 20625,
+    "Migrants (net)": -30000,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Ecuador",
+    "ISO-code": "ECU",
+    "GDP per capita": 11866,
+    "Migrants (net)": 36400,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Egypt",
+    "ISO-code": "EGY",
+    "GDP per capita": 14800,
+    "Migrants (net)": -38033,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "El Salvador",
+    "ISO-code": "SLV",
+    "GDP per capita": 8593,
+    "Migrants (net)": -40539,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "ISO-code": "GNQ",
+    "GDP per capita": 19961,
+    "Migrants (net)": 16000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Eritrea",
+    "ISO-code": "ERI",
+    "GDP per capita": 1103,
+    "Migrants (net)": -39858,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Estonia",
+    "ISO-code": "EST",
+    "GDP per capita": 37606,
+    "Migrants (net)": 3911,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Eswatini",
+    "ISO-code": "SWZ",
+    "GDP per capita": 11139,
+    "Migrants (net)": -8353,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Ethiopia",
+    "ISO-code": "ETH",
+    "GDP per capita": 2702,
+    "Migrants (net)": 30000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Fiji",
+    "ISO-code": "FJI",
+    "GDP per capita": 12689,
+    "Migrants (net)": -6202,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Finland",
+    "ISO-code": "FIN",
+    "GDP per capita": 49548,
+    "Migrants (net)": 14000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "France",
+    "ISO-code": "FRA",
+    "GDP per capita": 48640,
+    "Migrants (net)": 36527,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Gabon",
+    "ISO-code": "GAB",
+    "GDP per capita": 19839,
+    "Migrants (net)": 3260,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Georgia",
+    "ISO-code": "GEO",
+    "GDP per capita": 13200,
+    "Migrants (net)": -10000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Germany",
+    "ISO-code": "DEU",
+    "GDP per capita": 55306,
+    "Migrants (net)": 543822,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Ghana",
+    "ISO-code": "GHA",
+    "GDP per capita": 7343,
+    "Migrants (net)": -10000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Greece",
+    "ISO-code": "GRC",
+    "GDP per capita": 31616,
+    "Migrants (net)": -16000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Grenada",
+    "ISO-code": "GRD",
+    "GDP per capita": 17434,
+    "Migrants (net)": -200,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Guatemala",
+    "ISO-code": "GTM",
+    "GDP per capita": 9009,
+    "Migrants (net)": -9215,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Guinea",
+    "ISO-code": "GIN",
+    "GDP per capita": 2574,
+    "Migrants (net)": -4000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Guinea",
+    "ISO-code": "GIN",
+    "GDP per capita": 2113,
+    "Migrants (net)": -1399,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Guyana",
+    "ISO-code": "GUY",
+    "GDP per capita": 17163,
+    "Migrants (net)": -6000,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Haiti",
+    "ISO-code": "HTI",
+    "GDP per capita": 1916,
+    "Migrants (net)": -35000,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Honduras",
+    "ISO-code": "HND",
+    "GDP per capita": 5600,
+    "Migrants (net)": -6800,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Hong Kong",
+    "ISO-code": "HKG",
+    "GDP per capita": 66527,
+    "Migrants (net)": 29308,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Hungary",
+    "ISO-code": "HUN",
+    "GDP per capita": 35941,
+    "Migrants (net)": 6000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Iceland",
+    "ISO-code": "ISL",
+    "GDP per capita": 56974,
+    "Migrants (net)": 380,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "India",
+    "ISO-code": "IND",
+    "GDP per capita": 9027,
+    "Migrants (net)": -532687,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Indonesia",
+    "ISO-code": "IDN",
+    "GDP per capita": 14841,
+    "Migrants (net)": -98955,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Iran",
+    "ISO-code": "IRN",
+    "GDP per capita": 17832,
+    "Migrants (net)": -55000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Iraq",
+    "ISO-code": "IRQ",
+    "GDP per capita": 18755,
+    "Migrants (net)": 7834,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Ireland",
+    "ISO-code": "IRL",
+    "GDP per capita": 86988,
+    "Migrants (net)": 23604,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Israel",
+    "ISO-code": "ISR",
+    "GDP per capita": 40337,
+    "Migrants (net)": 10000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Italy",
+    "ISO-code": "ITA",
+    "GDP per capita": 41582,
+    "Migrants (net)": 148943,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Ivory Coast",
+    "ISO-code": "CIV",
+    "GDP per capita": 4754,
+    "Migrants (net)": -8000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Jamaica",
+    "ISO-code": "JAM",
+    "GDP per capita": 9932,
+    "Migrants (net)": -11332,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Japan",
+    "ISO-code": "JPN",
+    "GDP per capita": 46827,
+    "Migrants (net)": 71560,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Jordan",
+    "ISO-code": "JOR",
+    "GDP per capita": 9939,
+    "Migrants (net)": 10220,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kazakhstan",
+    "ISO-code": "KAZ",
+    "GDP per capita": 30178,
+    "Migrants (net)": -18000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kenya",
+    "ISO-code": "KEN",
+    "GDP per capita": 4078,
+    "Migrants (net)": -10000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Kiribati",
+    "ISO-code": "KIR",
+    "GDP per capita": 2193,
+    "Migrants (net)": -800,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Kuwait",
+    "ISO-code": "KWT",
+    "GDP per capita": 67891,
+    "Migrants (net)": 39520,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "ISO-code": "KGZ",
+    "GDP per capita": 4193,
+    "Migrants (net)": -4000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Laos",
+    "ISO-code": "LAO",
+    "GDP per capita": 8684,
+    "Migrants (net)": -14704,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Latvia",
+    "ISO-code": "LVA",
+    "GDP per capita": 32987,
+    "Migrants (net)": -14837,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Lebanon",
+    "ISO-code": "LBN",
+    "GDP per capita": 15599,
+    "Migrants (net)": -30012,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Lesotho",
+    "ISO-code": "LSO",
+    "GDP per capita": 3655,
+    "Migrants (net)": -10047,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Liberia",
+    "ISO-code": "LBR",
+    "GDP per capita": 1428,
+    "Migrants (net)": -5000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Libya",
+    "ISO-code": "LBY",
+    "GDP per capita": 9446,
+    "Migrants (net)": -1999,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Lithuania",
+    "ISO-code": "LTU",
+    "GDP per capita": 38751,
+    "Migrants (net)": -32780,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Luxembourg",
+    "ISO-code": "LUX",
+    "GDP per capita": 112045,
+    "Migrants (net)": 9741,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Macau",
+    "ISO-code": "MAC",
+    "GDP per capita": 113352,
+    "Migrants (net)": 5000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Madagascar",
+    "ISO-code": "MDG",
+    "GDP per capita": 1776,
+    "Migrants (net)": -1500,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malawi",
+    "ISO-code": "MWI",
+    "GDP per capita": 1292,
+    "Migrants (net)": -16053,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malaysia",
+    "ISO-code": "MYS",
+    "GDP per capita": 34567,
+    "Migrants (net)": 50000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Maldives",
+    "ISO-code": "MDV",
+    "GDP per capita": 24796,
+    "Migrants (net)": 11370,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Mali",
+    "ISO-code": "MLI",
+    "GDP per capita": 2569,
+    "Migrants (net)": -40000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malta",
+    "ISO-code": "MLT",
+    "GDP per capita": 49589,
+    "Migrants (net)": 900,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Mauritania",
+    "ISO-code": "MRT",
+    "GDP per capita": 5158,
+    "Migrants (net)": 5000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mauritius",
+    "ISO-code": "MUS",
+    "GDP per capita": 26461,
+    "Migrants (net)": 0,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mexico",
+    "ISO-code": "MEX",
+    "GDP per capita": 21363,
+    "Migrants (net)": -60000,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Micronesia",
+    "ISO-code": "FSM",
+    "GDP per capita": 3657,
+    "Migrants (net)": -600,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Moldova",
+    "ISO-code": "MDA",
+    "GDP per capita": 8161,
+    "Migrants (net)": -1387,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Mongolia",
+    "ISO-code": "MNG",
+    "GDP per capita": 15089,
+    "Migrants (net)": -852,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Montenegro",
+    "ISO-code": "MNE",
+    "GDP per capita": 21977,
+    "Migrants (net)": -480,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Morocco",
+    "ISO-code": "MAR",
+    "GDP per capita": 9667,
+    "Migrants (net)": -51419,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mozambique",
+    "ISO-code": "MOZ",
+    "GDP per capita": 1372,
+    "Migrants (net)": -5000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Myanmar",
+    "ISO-code": "MMR",
+    "GDP per capita": 7220,
+    "Migrants (net)": -163313,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Namibia",
+    "ISO-code": "NAM",
+    "GDP per capita": 11451,
+    "Migrants (net)": -4806,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Nepal",
+    "ISO-code": "NPL",
+    "GDP per capita": 3550,
+    "Migrants (net)": 41710,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Netherlands",
+    "ISO-code": "NLD",
+    "GDP per capita": 60299,
+    "Migrants (net)": 16000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "New Zealand",
+    "ISO-code": "NZL",
+    "GDP per capita": 42045,
+    "Migrants (net)": 14881,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Nicaragua",
+    "ISO-code": "NIC",
+    "GDP per capita": 5297,
+    "Migrants (net)": -21272,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Niger",
+    "ISO-code": "NER",
+    "GDP per capita": 1152,
+    "Migrants (net)": 4000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Nigeria",
+    "ISO-code": "NGA",
+    "GDP per capita": 6172,
+    "Migrants (net)": -60000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "North Macedonia",
+    "ISO-code": "MKD",
+    "GDP per capita": 17378,
+    "Migrants (net)": -1000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Norway",
+    "ISO-code": "NOR",
+    "GDP per capita": 79638,
+    "Migrants (net)": 28000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Oman",
+    "ISO-code": "OMN",
+    "GDP per capita": 48593,
+    "Migrants (net)": 87400,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Pakistan",
+    "ISO-code": "PAK",
+    "GDP per capita": 6016,
+    "Migrants (net)": -233379,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Panama",
+    "ISO-code": "PAN",
+    "GDP per capita": 28456,
+    "Migrants (net)": 11200,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "ISO-code": "PNG",
+    "GDP per capita": 4081,
+    "Migrants (net)": -800,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Paraguay",
+    "ISO-code": "PRY",
+    "GDP per capita": 13213,
+    "Migrants (net)": -16556,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Peru",
+    "ISO-code": "PER",
+    "GDP per capita": 15399,
+    "Migrants (net)": 99069,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Philippines",
+    "ISO-code": "PHL",
+    "GDP per capita": 10094,
+    "Migrants (net)": -67152,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Poland",
+    "ISO-code": "POL",
+    "GDP per capita": 35651,
+    "Migrants (net)": -29395,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Portugal",
+    "ISO-code": "PRT",
+    "GDP per capita": 34936,
+    "Migrants (net)": -6000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Puerto Rico",
+    "ISO-code": "PRI",
+    "GDP per capita": 41198,
+    "Migrants (net)": -97986,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Romania",
+    "ISO-code": "ROU",
+    "GDP per capita": 29555,
+    "Migrants (net)": -73999,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Russia",
+    "ISO-code": "RUS",
+    "GDP per capita": 30820,
+    "Migrants (net)": 182456,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Rwanda",
+    "ISO-code": "RWA",
+    "GDP per capita": 2642,
+    "Migrants (net)": -9000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Saint Lucia",
+    "ISO-code": "LCA",
+    "GDP per capita": 15159,
+    "Migrants (net)": 0,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "ISO-code": "VCT",
+    "GDP per capita": 12983,
+    "Migrants (net)": -200,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Samoa",
+    "ISO-code": "WSM",
+    "GDP per capita": 6493,
+    "Migrants (net)": -2803,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "ISO-code": "SAU",
+    "GDP per capita": 56912,
+    "Migrants (net)": 134979,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Senegal",
+    "ISO-code": "SEN",
+    "GDP per capita": 4079,
+    "Migrants (net)": -20000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Serbia",
+    "ISO-code": "SRB",
+    "GDP per capita": 19767,
+    "Migrants (net)": 4000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Seychelles",
+    "ISO-code": "SYC",
+    "GDP per capita": 33118,
+    "Migrants (net)": -200,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Sierra Leone",
+    "ISO-code": "SLE",
+    "GDP per capita": 1765,
+    "Migrants (net)": -4200,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Singapore",
+    "ISO-code": "SGP",
+    "GDP per capita": 105689,
+    "Migrants (net)": 27028,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Slovakia",
+    "ISO-code": "SVK",
+    "GDP per capita": 38321,
+    "Migrants (net)": 1485,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Slovenia",
+    "ISO-code": "SVN",
+    "GDP per capita": 40344,
+    "Migrants (net)": 2000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Solomon Islands",
+    "ISO-code": "SLB",
+    "GDP per capita": 2363,
+    "Migrants (net)": -1600,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Somalia",
+    "ISO-code": "SOM",
+    "GDP per capita": 314.5,
+    "Migrants (net)": -40000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "South Africa",
+    "ISO-code": "ZAF",
+    "GDP per capita": 13965,
+    "Migrants (net)": 145405,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "South Korea",
+    "ISO-code": "KOR",
+    "GDP per capita": 46452,
+    "Migrants (net)": 11731,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "South Sudan",
+    "ISO-code": "SSD",
+    "GDP per capita": 1715,
+    "Migrants (net)": -174200,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Spain",
+    "ISO-code": "ESP",
+    "GDP per capita": 43007,
+    "Migrants (net)": 40000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Sri Lanka",
+    "ISO-code": "LKA",
+    "GDP per capita": 14509,
+    "Migrants (net)": -97986,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Sudan",
+    "ISO-code": "SDN",
+    "GDP per capita": 3986,
+    "Migrants (net)": -50000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Suriname",
+    "ISO-code": "SUR",
+    "GDP per capita": 16044,
+    "Migrants (net)": -1000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Sweden",
+    "ISO-code": "SWE",
+    "GDP per capita": 55989,
+    "Migrants (net)": 40000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Switzerland",
+    "ISO-code": "CHE",
+    "GDP per capita": 67558,
+    "Migrants (net)": 52000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Taiwan",
+    "ISO-code": "TWN",
+    "GDP per capita": 57214,
+    "Migrants (net)": 30001,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Tajikistan",
+    "ISO-code": "TJK",
+    "GDP per capita": 3751,
+    "Migrants (net)": -20000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Tanzania",
+    "ISO-code": "TZA",
+    "GDP per capita": 3652,
+    "Migrants (net)": -40076,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Thailand",
+    "ISO-code": "THA",
+    "GDP per capita": 21361,
+    "Migrants (net)": 19444,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Togo",
+    "ISO-code": "TGO",
+    "GDP per capita": 1913,
+    "Migrants (net)": -2000,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Tonga",
+    "ISO-code": "TON",
+    "GDP per capita": 6867,
+    "Migrants (net)": -800,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "ISO-code": "TTO",
+    "GDP per capita": 33713,
+    "Migrants (net)": -800,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Tunisia",
+    "ISO-code": "TUN",
+    "GDP per capita": 13093,
+    "Migrants (net)": -4000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Turkey",
+    "ISO-code": "TUR",
+    "GDP per capita": 29327,
+    "Migrants (net)": 283922,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Turkmenistan",
+    "ISO-code": "TKM",
+    "GDP per capita": 21855,
+    "Migrants (net)": -5000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Uganda",
+    "ISO-code": "UGA",
+    "GDP per capita": 2753,
+    "Migrants (net)": 168694,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Ukraine",
+    "ISO-code": "UKR",
+    "GDP per capita": 10130,
+    "Migrants (net)": 10000,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "ISO-code": "ARE",
+    "GDP per capita": 70441,
+    "Migrants (net)": 40000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "United Kingdom",
+    "ISO-code": "GBR",
+    "GDP per capita": 48169,
+    "Migrants (net)": 260650,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "United States",
+    "ISO-code": "USA",
+    "GDP per capita": 67426,
+    "Migrants (net)": 954806,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Uruguay",
+    "ISO-code": "URY",
+    "GDP per capita": 24516,
+    "Migrants (net)": -3000,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Uzbekistan",
+    "ISO-code": "UZB",
+    "GDP per capita": 9595,
+    "Migrants (net)": -8863,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Vanuatu",
+    "ISO-code": "VUT",
+    "GDP per capita": 3039,
+    "Migrants (net)": 120,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Venezuela",
+    "ISO-code": "VEN",
+    "GDP per capita": 16055,
+    "Migrants (net)": -653249,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Vietnam",
+    "ISO-code": "VNM",
+    "GDP per capita": 8677,
+    "Migrants (net)": -80000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Yemen",
+    "ISO-code": "YEM",
+    "GDP per capita": 2312,
+    "Migrants (net)": -30000,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Zambia",
+    "ISO-code": "ZMB",
+    "GDP per capita": 4174,
+    "Migrants (net)": -8000,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Zimbabwe",
+    "ISO-code": "ZWE",
+    "GDP per capita": 2778,
+    "Migrants (net)": -116858,
+    "Continent": "Africa"
+  }
+]
