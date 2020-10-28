@@ -1,0 +1,1220 @@
+[
+  {
+    "Country": "Afghanistan",
+    "ISO-code": "AFG",
+    "GDP per capita": 2182,
+    "Meat consumption": 17.3,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Algeria",
+    "ISO-code": "DZA",
+    "GDP per capita": 16091,
+    "Meat consumption": 18.3,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Angola",
+    "ISO-code": "AGO",
+    "GDP per capita": 6763,
+    "Meat consumption": 19,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "ISO-code": "ATG",
+    "GDP per capita": 30593,
+    "Meat consumption": 56,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Argentina",
+    "ISO-code": "ARG",
+    "GDP per capita": 19971,
+    "Meat consumption": 79.7,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Armenia",
+    "ISO-code": "ARM",
+    "GDP per capita": 11845,
+    "Meat consumption": 27.7,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Australia",
+    "ISO-code": "AUS",
+    "GDP per capita": 54799,
+    "Meat consumption": 108.2,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Austria",
+    "ISO-code": "AUT",
+    "GDP per capita": 55171,
+    "Meat consumption": 94.1,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Azerbaijan",
+    "ISO-code": "AZE",
+    "GDP per capita": 19156,
+    "Meat consumption": 15.9,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bahrain",
+    "ISO-code": "BHR",
+    "GDP per capita": 51991,
+    "Meat consumption": 70.7,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bangladesh",
+    "ISO-code": "BGD",
+    "GDP per capita": 5453,
+    "Meat consumption": 3.1,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Barbados",
+    "ISO-code": "BRB",
+    "GDP per capita": 19364,
+    "Meat consumption": 88.7,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Belarus",
+    "ISO-code": "BLR",
+    "GDP per capita": 21224,
+    "Meat consumption": 58.6,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Belgium",
+    "ISO-code": "BEL",
+    "GDP per capita": 50904,
+    "Meat consumption": 86.1,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Belize",
+    "ISO-code": "BLZ",
+    "GDP per capita": 8791,
+    "Meat consumption": 74.7,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Benin",
+    "ISO-code": "BEN",
+    "GDP per capita": 3648,
+    "Meat consumption": 16.2,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Bhutan",
+    "ISO-code": "BTN",
+    "GDP per capita": 10627,
+    "Meat consumption": 3,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bolivia",
+    "ISO-code": "BOL",
+    "GDP per capita": 8525,
+    "Meat consumption": 50,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "ISO-code": "BIH",
+    "GDP per capita": 14894,
+    "Meat consumption": 21.4,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Botswana",
+    "ISO-code": "BWA",
+    "GDP per capita": 19388,
+    "Meat consumption": 27.3,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Brazil",
+    "ISO-code": "BRA",
+    "GDP per capita": 17106,
+    "Meat consumption": 82.4,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Bulgaria",
+    "ISO-code": "BGR",
+    "GDP per capita": 26034,
+    "Meat consumption": 69.4,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Burkina Faso",
+    "ISO-code": "BFA",
+    "GDP per capita": 2181,
+    "Meat consumption": 11.2,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Burundi",
+    "ISO-code": "BDI",
+    "GDP per capita": 724,
+    "Meat consumption": 3.5,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Cambodia",
+    "ISO-code": "KHM",
+    "GDP per capita": 5004,
+    "Meat consumption": 13.9,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Cameroon",
+    "ISO-code": "CMR",
+    "GDP per capita": 4099,
+    "Meat consumption": 14.4,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Canada",
+    "ISO-code": "CAN",
+    "GDP per capita": 52144,
+    "Meat consumption": 108.1,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Cape Verde",
+    "ISO-code": "CPV",
+    "GDP per capita": 8716,
+    "Meat consumption": 26.3,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Central African Republic",
+    "ISO-code": "CAF",
+    "GDP per capita": 864,
+    "Meat consumption": 28,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Chad",
+    "ISO-code": "TCD",
+    "GDP per capita": 2603,
+    "Meat consumption": 14.3,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Chile",
+    "ISO-code": "CHL",
+    "GDP per capita": 27150,
+    "Meat consumption": 66.4,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "China",
+    "ISO-code": "CHN",
+    "GDP per capita": 20984,
+    "Meat consumption": 52.4,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Colombia",
+    "ISO-code": "COL",
+    "GDP per capita": 16265,
+    "Meat consumption": 33.9,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Comoros",
+    "ISO-code": "COM",
+    "GDP per capita": 2898,
+    "Meat consumption": 7.6,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Costa Rica",
+    "ISO-code": "CRI",
+    "GDP per capita": 18651,
+    "Meat consumption": 40.4,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Croatia",
+    "ISO-code": "HRV",
+    "GDP per capita": 29207,
+    "Meat consumption": 49.9,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Cuba",
+    "ISO-code": "CUB",
+    "GDP per capita": 8822,
+    "Meat consumption": 32.2,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Cyprus",
+    "ISO-code": "CYP",
+    "GDP per capita": 42956,
+    "Meat consumption": 131.3,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Czech Republic",
+    "ISO-code": "CZE",
+    "GDP per capita": 40585,
+    "Meat consumption": 77.3,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "ISO-code": "COD",
+    "GDP per capita": 873,
+    "Meat consumption": 4.8,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Denmark",
+    "ISO-code": "DNK",
+    "GDP per capita": 55675,
+    "Meat consumption": 145.9,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Djibouti",
+    "ISO-code": "DJI",
+    "GDP per capita": 5855,
+    "Meat consumption": 17.1,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Dominica",
+    "ISO-code": "DMA",
+    "GDP per capita": 12851,
+    "Meat consumption": 67.1,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Dominican Republic",
+    "ISO-code": "DOM",
+    "GDP per capita": 20625,
+    "Meat consumption": 37.8,
+    "Continent": "North America"
+  },
+  {
+    "Country": "East Timor",
+    "ISO-code": "TLS",
+    "GDP per capita": 5321,
+    "Meat consumption": 41.3,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Ecuador",
+    "ISO-code": "ECU",
+    "GDP per capita": 11866,
+    "Meat consumption": 45,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Egypt",
+    "ISO-code": "EGY",
+    "GDP per capita": 14800,
+    "Meat consumption": 22.5,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "El Salvador",
+    "ISO-code": "SLV",
+    "GDP per capita": 8593,
+    "Meat consumption": 21.4,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Eritrea",
+    "ISO-code": "ERI",
+    "GDP per capita": 1103,
+    "Meat consumption": 7.7,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Estonia",
+    "ISO-code": "EST",
+    "GDP per capita": 37606,
+    "Meat consumption": 67.4,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Ethiopia",
+    "ISO-code": "ETH",
+    "GDP per capita": 2702,
+    "Meat consumption": 7.9,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Fiji",
+    "ISO-code": "FJI",
+    "GDP per capita": 12689,
+    "Meat consumption": 39.1,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Finland",
+    "ISO-code": "FIN",
+    "GDP per capita": 49548,
+    "Meat consumption": 67.4,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "France",
+    "ISO-code": "FRA",
+    "GDP per capita": 48640,
+    "Meat consumption": 101.1,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Gabon",
+    "ISO-code": "GAB",
+    "GDP per capita": 19839,
+    "Meat consumption": 46,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Georgia",
+    "ISO-code": "GEO",
+    "GDP per capita": 13200,
+    "Meat consumption": 26,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Germany",
+    "ISO-code": "DEU",
+    "GDP per capita": 55306,
+    "Meat consumption": 82.1,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Ghana",
+    "ISO-code": "GHA",
+    "GDP per capita": 7343,
+    "Meat consumption": 9.9,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Greece",
+    "ISO-code": "GRC",
+    "GDP per capita": 31616,
+    "Meat consumption": 78.7,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Greenland",
+    "ISO-code": "GRL",
+    "GDP per capita": 48182,
+    "Meat consumption": 63.4,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Grenada",
+    "ISO-code": "GRD",
+    "GDP per capita": 17434,
+    "Meat consumption": 97,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Guatemala",
+    "ISO-code": "GTM",
+    "GDP per capita": 9009,
+    "Meat consumption": 23.8,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Guinea",
+    "ISO-code": "GIN",
+    "GDP per capita": 2574,
+    "Meat consumption": 6.5,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Guinea",
+    "ISO-code": "GIN",
+    "GDP per capita": 2113,
+    "Meat consumption": 13,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Guyana",
+    "ISO-code": "GUY",
+    "GDP per capita": 17163,
+    "Meat consumption": 31.8,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Haiti",
+    "ISO-code": "HTI",
+    "GDP per capita": 1916,
+    "Meat consumption": 15.3,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Honduras",
+    "ISO-code": "HND",
+    "GDP per capita": 5600,
+    "Meat consumption": 24.7,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Hungary",
+    "ISO-code": "HUN",
+    "GDP per capita": 35941,
+    "Meat consumption": 100.7,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Iceland",
+    "ISO-code": "ISL",
+    "GDP per capita": 56974,
+    "Meat consumption": 84.8,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "India",
+    "ISO-code": "IND",
+    "GDP per capita": 9027,
+    "Meat consumption": 5.2,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Indonesia",
+    "ISO-code": "IDN",
+    "GDP per capita": 14841,
+    "Meat consumption": 8.3,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Iran",
+    "ISO-code": "IRN",
+    "GDP per capita": 17832,
+    "Meat consumption": 23.1,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Iraq",
+    "ISO-code": "IRQ",
+    "GDP per capita": 18755,
+    "Meat consumption": 18.2,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Ireland",
+    "ISO-code": "IRL",
+    "GDP per capita": 86988,
+    "Meat consumption": 106.3,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Israel",
+    "ISO-code": "ISR",
+    "GDP per capita": 40337,
+    "Meat consumption": 97.1,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Italy",
+    "ISO-code": "ITA",
+    "GDP per capita": 41582,
+    "Meat consumption": 90.4,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Ivory Coast",
+    "ISO-code": "CIV",
+    "GDP per capita": 4754,
+    "Meat consumption": 11.3,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Jamaica",
+    "ISO-code": "JAM",
+    "GDP per capita": 9932,
+    "Meat consumption": 56.8,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Japan",
+    "ISO-code": "JPN",
+    "GDP per capita": 46827,
+    "Meat consumption": 45.9,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Jordan",
+    "ISO-code": "JOR",
+    "GDP per capita": 9939,
+    "Meat consumption": 29.8,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kazakhstan",
+    "ISO-code": "KAZ",
+    "GDP per capita": 30178,
+    "Meat consumption": 44.8,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kenya",
+    "ISO-code": "KEN",
+    "GDP per capita": 4078,
+    "Meat consumption": 14.3,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Kiribati",
+    "ISO-code": "KIR",
+    "GDP per capita": 2193,
+    "Meat consumption": 32.1,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Kuwait",
+    "ISO-code": "KWT",
+    "GDP per capita": 67891,
+    "Meat consumption": 60.2,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "ISO-code": "KGZ",
+    "GDP per capita": 4193,
+    "Meat consumption": 39,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Laos",
+    "ISO-code": "LAO",
+    "GDP per capita": 8684,
+    "Meat consumption": 15,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Latvia",
+    "ISO-code": "LVA",
+    "GDP per capita": 32987,
+    "Meat consumption": 45.7,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Lebanon",
+    "ISO-code": "LBN",
+    "GDP per capita": 15599,
+    "Meat consumption": 63.1,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Lesotho",
+    "ISO-code": "LSO",
+    "GDP per capita": 3655,
+    "Meat consumption": 15.4,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Liberia",
+    "ISO-code": "LBR",
+    "GDP per capita": 1428,
+    "Meat consumption": 7.9,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Libya",
+    "ISO-code": "LBY",
+    "GDP per capita": 9446,
+    "Meat consumption": 28.6,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Lithuania",
+    "ISO-code": "LTU",
+    "GDP per capita": 38751,
+    "Meat consumption": 49.5,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Luxembourg",
+    "ISO-code": "LUX",
+    "GDP per capita": 112045,
+    "Meat consumption": 141.7,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Madagascar",
+    "ISO-code": "MDG",
+    "GDP per capita": 1776,
+    "Meat consumption": 17.6,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malawi",
+    "ISO-code": "MWI",
+    "GDP per capita": 1292,
+    "Meat consumption": 5.1,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malaysia",
+    "ISO-code": "MYS",
+    "GDP per capita": 34567,
+    "Meat consumption": 50.9,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Maldives",
+    "ISO-code": "MDV",
+    "GDP per capita": 24796,
+    "Meat consumption": 16.6,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Mali",
+    "ISO-code": "MLI",
+    "GDP per capita": 2569,
+    "Meat consumption": 19,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malta",
+    "ISO-code": "MLT",
+    "GDP per capita": 49589,
+    "Meat consumption": 86.9,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Mauritania",
+    "ISO-code": "MRT",
+    "GDP per capita": 5158,
+    "Meat consumption": 29.9,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mauritius",
+    "ISO-code": "MUS",
+    "GDP per capita": 26461,
+    "Meat consumption": 39.6,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mexico",
+    "ISO-code": "MEX",
+    "GDP per capita": 21363,
+    "Meat consumption": 58.6,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Moldova",
+    "ISO-code": "MDA",
+    "GDP per capita": 8161,
+    "Meat consumption": 22.7,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Mongolia",
+    "ISO-code": "MNG",
+    "GDP per capita": 15089,
+    "Meat consumption": 108.8,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Morocco",
+    "ISO-code": "MAR",
+    "GDP per capita": 9667,
+    "Meat consumption": 20.6,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mozambique",
+    "ISO-code": "MOZ",
+    "GDP per capita": 1372,
+    "Meat consumption": 5.6,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Myanmar",
+    "ISO-code": "MMR",
+    "GDP per capita": 7220,
+    "Meat consumption": 10.7,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Namibia",
+    "ISO-code": "NAM",
+    "GDP per capita": 11451,
+    "Meat consumption": 34,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Nepal",
+    "ISO-code": "NPL",
+    "GDP per capita": 3550,
+    "Meat consumption": 10,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Netherlands",
+    "ISO-code": "NLD",
+    "GDP per capita": 60299,
+    "Meat consumption": 89.3,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "New Zealand",
+    "ISO-code": "NZL",
+    "GDP per capita": 42045,
+    "Meat consumption": 142.1,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Nicaragua",
+    "ISO-code": "NIC",
+    "GDP per capita": 5297,
+    "Meat consumption": 14.9,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Niger",
+    "ISO-code": "NER",
+    "GDP per capita": 1152,
+    "Meat consumption": 11.2,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Nigeria",
+    "ISO-code": "NGA",
+    "GDP per capita": 6172,
+    "Meat consumption": 8.6,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "North Macedonia",
+    "ISO-code": "MKD",
+    "GDP per capita": 17378,
+    "Meat consumption": 35.4,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Norway",
+    "ISO-code": "NOR",
+    "GDP per capita": 79638,
+    "Meat consumption": 61.7,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Oman",
+    "ISO-code": "OMN",
+    "GDP per capita": 48593,
+    "Meat consumption": 49.8,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Pakistan",
+    "ISO-code": "PAK",
+    "GDP per capita": 6016,
+    "Meat consumption": 12.3,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Panama",
+    "ISO-code": "PAN",
+    "GDP per capita": 28456,
+    "Meat consumption": 54.5,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "ISO-code": "PNG",
+    "GDP per capita": 4081,
+    "Meat consumption": 73,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Paraguay",
+    "ISO-code": "PRY",
+    "GDP per capita": 13213,
+    "Meat consumption": 70.3,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Peru",
+    "ISO-code": "PER",
+    "GDP per capita": 15399,
+    "Meat consumption": 34.5,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Philippines",
+    "ISO-code": "PHL",
+    "GDP per capita": 10094,
+    "Meat consumption": 31.1,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Poland",
+    "ISO-code": "POL",
+    "GDP per capita": 35651,
+    "Meat consumption": 78.1,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Portugal",
+    "ISO-code": "PRT",
+    "GDP per capita": 34936,
+    "Meat consumption": 91.1,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Republic of the Congo",
+    "ISO-code": "COG",
+    "GDP per capita": 7336,
+    "Meat consumption": 13.3,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Romania",
+    "ISO-code": "ROU",
+    "GDP per capita": 29555,
+    "Meat consumption": 54.5,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Russia",
+    "ISO-code": "RUS",
+    "GDP per capita": 30820,
+    "Meat consumption": 51,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Rwanda",
+    "ISO-code": "RWA",
+    "GDP per capita": 2642,
+    "Meat consumption": 4.4,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "ISO-code": "KNA",
+    "GDP per capita": 31950,
+    "Meat consumption": 99.3,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Saint Lucia",
+    "ISO-code": "LCA",
+    "GDP per capita": 15159,
+    "Meat consumption": 124.1,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "ISO-code": "VCT",
+    "GDP per capita": 12983,
+    "Meat consumption": 79.1,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Samoa",
+    "ISO-code": "WSM",
+    "GDP per capita": 6493,
+    "Meat consumption": 82.6,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "ISO-code": "SAU",
+    "GDP per capita": 56912,
+    "Meat consumption": 44.6,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Senegal",
+    "ISO-code": "SEN",
+    "GDP per capita": 4079,
+    "Meat consumption": 17.7,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Seychelles",
+    "ISO-code": "SYC",
+    "GDP per capita": 33118,
+    "Meat consumption": 51.1,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Sierra Leone",
+    "ISO-code": "SLE",
+    "GDP per capita": 1765,
+    "Meat consumption": 6.1,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Singapore",
+    "ISO-code": "SGP",
+    "GDP per capita": 105689,
+    "Meat consumption": 71.1,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Slovakia",
+    "ISO-code": "SVK",
+    "GDP per capita": 38321,
+    "Meat consumption": 67.4,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Slovenia",
+    "ISO-code": "SVN",
+    "GDP per capita": 40344,
+    "Meat consumption": 88,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Solomon Islands",
+    "ISO-code": "SLB",
+    "GDP per capita": 2363,
+    "Meat consumption": 9.7,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Somalia",
+    "ISO-code": "SOM",
+    "GDP per capita": 314.5,
+    "Meat consumption": 9.5,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "South Africa",
+    "ISO-code": "ZAF",
+    "GDP per capita": 13965,
+    "Meat consumption": 39,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "South Korea",
+    "ISO-code": "KOR",
+    "GDP per capita": 46452,
+    "Meat consumption": 48,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "South Sudan",
+    "ISO-code": "SSD",
+    "GDP per capita": 1715,
+    "Meat consumption": 13.1,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Spain",
+    "ISO-code": "ESP",
+    "GDP per capita": 43007,
+    "Meat consumption": 118.6,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Sri Lanka",
+    "ISO-code": "LKA",
+    "GDP per capita": 14509,
+    "Meat consumption": 6.6,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Sudan",
+    "ISO-code": "SDN",
+    "GDP per capita": 3986,
+    "Meat consumption": 21,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Suriname",
+    "ISO-code": "SUR",
+    "GDP per capita": 16044,
+    "Meat consumption": 40.3,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Sweden",
+    "ISO-code": "SWE",
+    "GDP per capita": 55989,
+    "Meat consumption": 76.1,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Switzerland",
+    "ISO-code": "CHE",
+    "GDP per capita": 67558,
+    "Meat consumption": 72.9,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Tajikistan",
+    "ISO-code": "TJK",
+    "GDP per capita": 3751,
+    "Meat consumption": 8.7,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Tanzania",
+    "ISO-code": "TZA",
+    "GDP per capita": 3652,
+    "Meat consumption": 10,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Thailand",
+    "ISO-code": "THA",
+    "GDP per capita": 21361,
+    "Meat consumption": 27.9,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "The Bahamas",
+    "ISO-code": "BHS",
+    "GDP per capita": 33432,
+    "Meat consumption": 123.6,
+    "Continent": "North America"
+  },
+  {
+    "Country": "The Gambia",
+    "ISO-code": "GMB",
+    "GDP per capita": 2892,
+    "Meat consumption": 5.2,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Togo",
+    "ISO-code": "TGO",
+    "GDP per capita": 1913,
+    "Meat consumption": 8.5,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "ISO-code": "TTO",
+    "GDP per capita": 33713,
+    "Meat consumption": 57.8,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Tunisia",
+    "ISO-code": "TUN",
+    "GDP per capita": 13093,
+    "Meat consumption": 25.5,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Turkey",
+    "ISO-code": "TUR",
+    "GDP per capita": 29327,
+    "Meat consumption": 19.3,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Turkmenistan",
+    "ISO-code": "TKM",
+    "GDP per capita": 21855,
+    "Meat consumption": 41.7,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Uganda",
+    "ISO-code": "UGA",
+    "GDP per capita": 2753,
+    "Meat consumption": 11.7,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Ukraine",
+    "ISO-code": "UKR",
+    "GDP per capita": 10130,
+    "Meat consumption": 32.3,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "ISO-code": "ARE",
+    "GDP per capita": 70441,
+    "Meat consumption": 74.4,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "United Kingdom",
+    "ISO-code": "GBR",
+    "GDP per capita": 48169,
+    "Meat consumption": 79.6,
+    "Continent": "Europe"
+  },
+  {
+    "Country": "United States",
+    "ISO-code": "USA",
+    "GDP per capita": 67426,
+    "Meat consumption": 124.8,
+    "Continent": "North America"
+  },
+  {
+    "Country": "Uruguay",
+    "ISO-code": "URY",
+    "GDP per capita": 24516,
+    "Meat consumption": 98.6,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Uzbekistan",
+    "ISO-code": "UZB",
+    "GDP per capita": 9595,
+    "Meat consumption": 20.7,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Vanuatu",
+    "ISO-code": "VUT",
+    "GDP per capita": 3039,
+    "Meat consumption": 32.6,
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Venezuela",
+    "ISO-code": "VEN",
+    "GDP per capita": 16055,
+    "Meat consumption": 56.6,
+    "Continent": "South America"
+  },
+  {
+    "Country": "Vietnam",
+    "ISO-code": "VNM",
+    "GDP per capita": 8677,
+    "Meat consumption": 28.6,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Yemen",
+    "ISO-code": "YEM",
+    "GDP per capita": 2312,
+    "Meat consumption": 14.7,
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Zambia",
+    "ISO-code": "ZMB",
+    "GDP per capita": 4174,
+    "Meat consumption": 11.9,
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Zimbabwe",
+    "ISO-code": "ZWE",
+    "GDP per capita": 2778,
+    "Meat consumption": 15.2,
+    "Continent": "Africa"
+  }
+]
