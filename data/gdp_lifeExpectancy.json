@@ -25,7 +25,7 @@
     "GDP per capita": 30593,
     "Life expectancy": 76.9,
     "ISO-code": "ATG",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Argentina",
@@ -81,7 +81,7 @@
     "GDP per capita": 19364,
     "Life expectancy": 79.1,
     "ISO-code": "BRB",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Belarus",
@@ -102,7 +102,7 @@
     "GDP per capita": 8791,
     "Life expectancy": 74.5,
     "ISO-code": "BLZ",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Benin",
@@ -249,7 +249,7 @@
     "GDP per capita": 18651,
     "Life expectancy": 80.1,
     "ISO-code": "CRI",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Croatia",
@@ -263,7 +263,7 @@
     "GDP per capita": 8822,
     "Life expectancy": 78.6,
     "ISO-code": "CUB",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Cyprus",
@@ -305,7 +305,7 @@
     "GDP per capita": 20625,
     "Life expectancy": 73.9,
     "ISO-code": "DOM",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "East Timor",
@@ -333,7 +333,7 @@
     "GDP per capita": 8593,
     "Life expectancy": 73.1,
     "ISO-code": "SLV",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Equatorial Guinea",
@@ -438,7 +438,7 @@
     "GDP per capita": 17434,
     "Life expectancy": 72.4,
     "ISO-code": "GRD",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Guatemala",
@@ -473,14 +473,14 @@
     "GDP per capita": 1916,
     "Life expectancy": 63.7,
     "ISO-code": "HTI",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Honduras",
     "GDP per capita": 5600,
     "Life expectancy": 75.1,
     "ISO-code": "HND",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Hong Kong",
@@ -564,7 +564,7 @@
     "GDP per capita": 9932,
     "Life expectancy": 74.4,
     "ISO-code": "JAM",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Japan",
@@ -732,7 +732,7 @@
     "GDP per capita": 21363,
     "Life expectancy": 75,
     "ISO-code": "MEX",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Micronesia",
@@ -816,7 +816,7 @@
     "GDP per capita": 5297,
     "Life expectancy": 74.3,
     "ISO-code": "NIC",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Niger",
@@ -879,7 +879,7 @@
     "GDP per capita": 4081,
     "Life expectancy": 78.3,
     "ISO-code": "PAN",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Papua New Guinea",
@@ -956,21 +956,21 @@
     "GDP per capita": 15159,
     "Life expectancy": 74.6,
     "ISO-code": "KNA",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Saint Lucia",
     "GDP per capita": 12983,
     "Life expectancy": 76.1,
     "ISO-code": "LCA",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Saint Vincent and the Grenadines",
     "GDP per capita": 6493,
     "Life expectancy": 72.4,
     "ISO-code": "VCT",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Samoa",
@@ -1124,7 +1124,7 @@
     "GDP per capita": 33432,
     "Life expectancy": 73.8,
     "ISO-code": "BHS",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "The Gambia",
@@ -1152,7 +1152,7 @@
     "GDP per capita": 33713,
     "Life expectancy": 73.4,
     "ISO-code": "TTO",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Tunisia",
@@ -1208,7 +1208,7 @@
     "GDP per capita": 67426,
     "Life expectancy": 78.9,
     "ISO-code": "USA",
-    "Continent": "North Africa"
+    "Continent": "North America"
   },
   {
     "Country": "Uruguay",
