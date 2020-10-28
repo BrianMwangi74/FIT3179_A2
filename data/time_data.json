@@ -1,0 +1,302 @@
+[
+  {
+    "Year": 1960,
+    "GDP per capita": 452.1089,
+    "Life expectancy": 50.094
+  },
+  {
+    "Year": 1961,
+    "GDP per capita": 464.049,
+    "Life expectancy": 50.456
+  },
+  {
+    "Year": 1962,
+    "GDP per capita": 489.5471,
+    "Life expectancy": 50.818
+  },
+  {
+    "Year": 1963,
+    "GDP per capita": 516.6151,
+    "Life expectancy": 51.18
+  },
+  {
+    "Year": 1964,
+    "GDP per capita": 554.5533,
+    "Life expectancy": 52.03
+  },
+  {
+    "Year": 1965,
+    "GDP per capita": 591.7181,
+    "Life expectancy": 52.88
+  },
+  {
+    "Year": 1966,
+    "GDP per capita": 628.7388,
+    "Life expectancy": 53.73
+  },
+  {
+    "Year": 1967,
+    "GDP per capita": 655.8735,
+    "Life expectancy": 54.58
+  },
+  {
+    "Year": 1968,
+    "GDP per capita": 693.9011,
+    "Life expectancy": 55.43
+  },
+  {
+    "Year": 1969,
+    "GDP per capita": 749.7251,
+    "Life expectancy": 55.962
+  },
+  {
+    "Year": 1970,
+    "GDP per capita": 803.9466,
+    "Life expectancy": 56.494
+  },
+  {
+    "Year": 1971,
+    "GDP per capita": 870.4373,
+    "Life expectancy": 57.026
+  },
+  {
+    "Year": 1972,
+    "GDP per capita": 984.5294,
+    "Life expectancy": 57.558
+  },
+  {
+    "Year": 1973,
+    "GDP per capita": 1178.0889,
+    "Life expectancy": 58.09
+  },
+  {
+    "Year": 1974,
+    "GDP per capita": 1332.8028,
+    "Life expectancy": 58.526
+  },
+  {
+    "Year": 1975,
+    "GDP per capita": 1457.1544,
+    "Life expectancy": 58.962
+  },
+  {
+    "Year": 1976,
+    "GDP per capita": 1556.8154,
+    "Life expectancy": 59.398
+  },
+  {
+    "Year": 1977,
+    "GDP per capita": 1729.5263,
+    "Life expectancy": 59.834
+  },
+  {
+    "Year": 1978,
+    "GDP per capita": 2005.1087,
+    "Life expectancy": 60.27
+  },
+  {
+    "Year": 1979,
+    "GDP per capita": 2288.666,
+    "Life expectancy": 60.63
+  },
+  {
+    "Year": 1980,
+    "GDP per capita": 2532.7632,
+    "Life expectancy": 60.99
+  },
+  {
+    "Year": 1981,
+    "GDP per capita": 2576.688,
+    "Life expectancy": 61.35
+  },
+  {
+    "Year": 1982,
+    "GDP per capita": 2507.3214,
+    "Life expectancy": 61.71
+  },
+  {
+    "Year": 1983,
+    "GDP per capita": 2513.1282,
+    "Life expectancy": 62.07
+  },
+  {
+    "Year": 1984,
+    "GDP per capita": 2560.9983,
+    "Life expectancy": 62.398
+  },
+  {
+    "Year": 1985,
+    "GDP per capita": 2643.7584,
+    "Life expectancy": 62.726
+  },
+  {
+    "Year": 1986,
+    "GDP per capita": 3069.9131,
+    "Life expectancy": 63.054
+  },
+  {
+    "Year": 1987,
+    "GDP per capita": 3431.5807,
+    "Life expectancy": 63.382
+  },
+  {
+    "Year": 1988,
+    "GDP per capita": 3772.4014,
+    "Life expectancy": 63.71
+  },
+  {
+    "Year": 1989,
+    "GDP per capita": 3870.413,
+    "Life expectancy": 63.88
+  },
+  {
+    "Year": 1990,
+    "GDP per capita": 4285.2353,
+    "Life expectancy": 64.05
+  },
+  {
+    "Year": 1991,
+    "GDP per capita": 4464.6543,
+    "Life expectancy": 64.22
+  },
+  {
+    "Year": 1992,
+    "GDP per capita": 4668.2405,
+    "Life expectancy": 64.39
+  },
+  {
+    "Year": 1993,
+    "GDP per capita": 4669.5816,
+    "Life expectancy": 64.56
+  },
+  {
+    "Year": 1994,
+    "GDP per capita": 4939.8349,
+    "Life expectancy": 64.774
+  },
+  {
+    "Year": 1995,
+    "GDP per capita": 5412.3441,
+    "Life expectancy": 64.988
+  },
+  {
+    "Year": 1996,
+    "GDP per capita": 5453.3128,
+    "Life expectancy": 65.202
+  },
+  {
+    "Year": 1997,
+    "GDP per capita": 5357.0692,
+    "Life expectancy": 65.416
+  },
+  {
+    "Year": 1998,
+    "GDP per capita": 5272.6333,
+    "Life expectancy": 65.63
+  },
+  {
+    "Year": 1999,
+    "GDP per capita": 5395.9428,
+    "Life expectancy": 65.914
+  },
+  {
+    "Year": 2000,
+    "GDP per capita": 5498.3297,
+    "Life expectancy": 66.198
+  },
+  {
+    "Year": 2001,
+    "GDP per capita": 5396.8919,
+    "Life expectancy": 66.482
+  },
+  {
+    "Year": 2002,
+    "GDP per capita": 5533.4253,
+    "Life expectancy": 66.766
+  },
+  {
+    "Year": 2003,
+    "GDP per capita": 6131.2232,
+    "Life expectancy": 67.05
+  },
+  {
+    "Year": 2004,
+    "GDP per capita": 6820.6152,
+    "Life expectancy": 67.424
+  },
+  {
+    "Year": 2005,
+    "GDP per capita": 7297.1534,
+    "Life expectancy": 67.798
+  },
+  {
+    "Year": 2006,
+    "GDP per capita": 7811.9362,
+    "Life expectancy": 68.172
+  },
+  {
+    "Year": 2007,
+    "GDP per capita": 8694.9003,
+    "Life expectancy": 68.546
+  },
+  {
+    "Year": 2008,
+    "GDP per capita": 9423.7573,
+    "Life expectancy": 68.92
+  },
+  {
+    "Year": 2009,
+    "GDP per capita": 8830.3069,
+    "Life expectancy": 69.312
+  },
+  {
+    "Year": 2010,
+    "GDP per capita": 9551.3357,
+    "Life expectancy": 69.704
+  },
+  {
+    "Year": 2011,
+    "GDP per capita": 10488.334,
+    "Life expectancy": 70.096
+  },
+  {
+    "Year": 2012,
+    "GDP per capita": 10605.2083,
+    "Life expectancy": 70.488
+  },
+  {
+    "Year": 2013,
+    "GDP per capita": 10781.8553,
+    "Life expectancy": 70.88
+  },
+  {
+    "Year": 2014,
+    "GDP per capita": 10952.3444,
+    "Life expectancy": 71.16
+  },
+  {
+    "Year": 2015,
+    "GDP per capita": 10246.5074,
+    "Life expectancy": 71.44
+  },
+  {
+    "Year": 2016,
+    "GDP per capita": 10281.9088,
+    "Life expectancy": 71.72
+  },
+  {
+    "Year": 2017,
+    "GDP per capita": 10817.4819,
+    "Life expectancy": 72
+  },
+  {
+    "Year": 2018,
+    "GDP per capita": 11381.6806,
+    "Life expectancy": 72.28
+  },
+  {
+    "Year": 2019,
+    "GDP per capita": 11435.6099,
+    "Life expectancy": 72.456
+  }
+]
