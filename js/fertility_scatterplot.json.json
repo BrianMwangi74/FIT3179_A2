@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 300,
   "height": 300,
-  "title": "GDP per capita vs Suicide rate 2020",
-  "description": "A scatterplot showing horsepower and miles per gallons for various cars.",
+  "title": "GDP per capita vs Fertility rate 2020",
+  "description": "A scatterplot showing gdp per capita and fertility rate globally.",
   "data": {
     "url": "https://raw.githubusercontent.com/BrianMwangi74/FIT3179_A2/master/data/gdp_fertility.json"
   },
