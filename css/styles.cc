@@ -23,6 +23,21 @@
 	right: 100px;
 	height: 350px;
 }
+#fertRate_scatter_plot {
+	left: 100px;
+	right: 100px;
+	height: 350px;
+}
+#migrants_scatter_plot {
+	left: 100px;
+	right: 100px;
+	height: 350px;
+}
+#meat_scatter_plot {
+	left: 100px;
+	right: 100px;
+	height: 350px;
+}
 
 body{
     font-family: 'Source Sans Pro', sans-serif;
