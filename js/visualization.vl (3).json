@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 300,
+  "height": 300,
+  "title": "GDP per capita vs Net migrants 2020",
+  "description": "A scatterplot showing gdp per capita and net migrants.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/BrianMwangi74/FIT3179_A2/master/data/gdp_migrants.json"
+  },
+  "params": [
+    {
+      "name": "Continent_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "labels": [
+          "Show All",
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "name": "Continent Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+    }
+  ],
+  "selection": {
+    "net_highlight": {
+      "type": "multi",
+      "fields": ["Net migrants"],
+      "bind": "legend"
+    }
+  },
+  "mark": "circle",
+  "encoding": {
+    "x": {"field": "GDP per capita", "type": "quantitative"},
+    "y": {
+      "field": "Migrants (net)",
+      "type": "quantitative",
+      "axis": {"tickCount": 10}
+    },
+    "color": {
+      "field": "Net migrants",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Net Positive", "Net Zero", "Net Negative"],
+        "range": ["#26B6E6", "#e41a1c", "#ff7f00"]
+      }
+    },
+    "opacity": {
+      "condition": {"selection": "net_highlight", "value": 1},
+      "value": 0.15
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Continent", "type": "nominal"},
+      {"field": "GDP per capita", "type": "quantitative"},
+      {"field": "Migrants (net)", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
