@@ -1,0 +1,1689 @@
+[
+  {
+    "Country": "Afghanistan",
+    "GDP per capita": 2182,
+    "Life expectancy": 64.5,
+    "ISO-code": "AFG",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Algeria",
+    "GDP per capita": 16091,
+    "Life expectancy": 76.7,
+    "ISO-code": "DZA",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Angola",
+    "GDP per capita": 6763,
+    "Life expectancy": 60.8,
+    "ISO-code": "AGO",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "GDP per capita": 30593,
+    "Life expectancy": 76.9,
+    "ISO-code": "ATG",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Argentina",
+    "GDP per capita": 19971,
+    "Life expectancy": 76.5,
+    "ISO-code": "ARG",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Armenia",
+    "GDP per capita": 11845,
+    "Life expectancy": 74.9,
+    "ISO-code": "ARM",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Australia",
+    "GDP per capita": 54799,
+    "Life expectancy": 83.3,
+    "ISO-code": "AUS",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Austria",
+    "GDP per capita": 55171,
+    "Life expectancy": 81.4,
+    "ISO-code": "AUT",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Azerbaijan",
+    "GDP per capita": 19156,
+    "Life expectancy": 72.9,
+    "ISO-code": "AZE",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bahrain",
+    "GDP per capita": 51991,
+    "Life expectancy": 77.2,
+    "ISO-code": "BHR",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bangladesh",
+    "GDP per capita": 5453,
+    "Life expectancy": 72.3,
+    "ISO-code": "BGD",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Barbados",
+    "GDP per capita": 19364,
+    "Life expectancy": 79.1,
+    "ISO-code": "BRB",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Belarus",
+    "GDP per capita": 21224,
+    "Life expectancy": 74.6,
+    "ISO-code": "BLR",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Belgium",
+    "GDP per capita": 50904,
+    "Life expectancy": 81.5,
+    "ISO-code": "BEL",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Belize",
+    "GDP per capita": 8791,
+    "Life expectancy": 74.5,
+    "ISO-code": "BLZ",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Benin",
+    "GDP per capita": 3648,
+    "Life expectancy": 61.5,
+    "ISO-code": "BEN",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Bhutan",
+    "GDP per capita": 10627,
+    "Life expectancy": 71.5,
+    "ISO-code": "BTN",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bolivia",
+    "GDP per capita": 8525,
+    "Life expectancy": 71.2,
+    "ISO-code": "BOL",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "GDP per capita": 14894,
+    "Life expectancy": 77.3,
+    "ISO-code": "BIH",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Botswana",
+    "GDP per capita": 19388,
+    "Life expectancy": 69.3,
+    "ISO-code": "BWA",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Brazil",
+    "GDP per capita": 17106,
+    "Life expectancy": 75.7,
+    "ISO-code": "BRA",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Brunei",
+    "GDP per capita": 85011,
+    "Life expectancy": 75.7,
+    "ISO-code": "BRN",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bulgaria",
+    "GDP per capita": 26034,
+    "Life expectancy": 74.9,
+    "ISO-code": "BGR",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Burkina Faso",
+    "GDP per capita": 2181,
+    "Life expectancy": 61.2,
+    "ISO-code": "BFA",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Burundi",
+    "GDP per capita": 724,
+    "Life expectancy": 61.2,
+    "ISO-code": "BDI",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Cambodia",
+    "GDP per capita": 5004,
+    "Life expectancy": 69.6,
+    "ISO-code": "KHM",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Cameroon",
+    "GDP per capita": 4099,
+    "Life expectancy": 58.9,
+    "ISO-code": "CMR",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Canada",
+    "GDP per capita": 52144,
+    "Life expectancy": 82.3,
+    "ISO-code": "CAN",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Cape Verde",
+    "GDP per capita": 8716,
+    "Life expectancy": 72.8,
+    "ISO-code": "CPV",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Central African Republic",
+    "GDP per capita": 864,
+    "Life expectancy": 52.8,
+    "ISO-code": "CAF",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Chad",
+    "GDP per capita": 2603,
+    "Life expectancy": 54,
+    "ISO-code": "TCD",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Chile",
+    "GDP per capita": 27150,
+    "Life expectancy": 80,
+    "ISO-code": "CHL",
+    "Continent": "South America"
+  },
+  {
+    "Country": "China",
+    "GDP per capita": 20984,
+    "Life expectancy": 76.7,
+    "ISO-code": "CHN",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Colombia",
+    "GDP per capita": 16265,
+    "Life expectancy": 77.1,
+    "ISO-code": "COL",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Comoros",
+    "GDP per capita": 2898,
+    "Life expectancy": 64.1,
+    "ISO-code": "COM",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Costa Rica",
+    "GDP per capita": 18651,
+    "Life expectancy": 80.1,
+    "ISO-code": "CRI",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Croatia",
+    "GDP per capita": 29207,
+    "Life expectancy": 78.3,
+    "ISO-code": "HRV",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Cuba",
+    "GDP per capita": 8822,
+    "Life expectancy": 78.6,
+    "ISO-code": "CUB",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Cyprus",
+    "GDP per capita": 42956,
+    "Life expectancy": 80.8,
+    "ISO-code": "CYP",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Czech Republic",
+    "GDP per capita": 40585,
+    "Life expectancy": 79.2,
+    "ISO-code": "CZE",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "GDP per capita": 873,
+    "Life expectancy": 60.4,
+    "ISO-code": "COD",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Denmark",
+    "GDP per capita": 55675,
+    "Life expectancy": 80.8,
+    "ISO-code": "DNK",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Djibouti",
+    "GDP per capita": 5855,
+    "Life expectancy": 66.6,
+    "ISO-code": "DJI",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Dominican Republic",
+    "GDP per capita": 20625,
+    "Life expectancy": 73.9,
+    "ISO-code": "DOM",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "East Timor",
+    "GDP per capita": 5321,
+    "Life expectancy": 69.3,
+    "ISO-code": "TLS",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Ecuador",
+    "GDP per capita": 11866,
+    "Life expectancy": 76.8,
+    "ISO-code": "ECU",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Egypt",
+    "GDP per capita": 14800,
+    "Life expectancy": 71.8,
+    "ISO-code": "EGY",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "El Salvador",
+    "GDP per capita": 8593,
+    "Life expectancy": 73.1,
+    "ISO-code": "SLV",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "GDP per capita": 19961,
+    "Life expectancy": 58.4,
+    "ISO-code": "GNQ",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Eritrea",
+    "GDP per capita": 1103,
+    "Life expectancy": 65.9,
+    "ISO-code": "ERI",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Estonia",
+    "GDP per capita": 37606,
+    "Life expectancy": 78.6,
+    "ISO-code": "EST",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Eswatini",
+    "GDP per capita": 11139,
+    "Life expectancy": 59.4,
+    "ISO-code": "SWZ",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Ethiopia",
+    "GDP per capita": 2702,
+    "Life expectancy": 66.2,
+    "ISO-code": "ETH",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Fiji",
+    "GDP per capita": 12689,
+    "Life expectancy": 67.3,
+    "ISO-code": "FJI",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Finland",
+    "GDP per capita": 49548,
+    "Life expectancy": 81.7,
+    "ISO-code": "FIN",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "France",
+    "GDP per capita": 48640,
+    "Life expectancy": 82.5,
+    "ISO-code": "FRA",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Gabon",
+    "GDP per capita": 19839,
+    "Life expectancy": 66.2,
+    "ISO-code": "GAB",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Georgia",
+    "GDP per capita": 13200,
+    "Life expectancy": 73.6,
+    "ISO-code": "GEO",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Germany",
+    "GDP per capita": 55306,
+    "Life expectancy": 81.2,
+    "ISO-code": "DEU",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Ghana",
+    "GDP per capita": 7343,
+    "Life expectancy": 63.8,
+    "ISO-code": "GHA",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Greece",
+    "GDP per capita": 31616,
+    "Life expectancy": 82.1,
+    "ISO-code": "GRC",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Greenland",
+    "GDP per capita": 48182,
+    "Life expectancy": 71.25,
+    "ISO-code": "GRL",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Grenada",
+    "GDP per capita": 17434,
+    "Life expectancy": 72.4,
+    "ISO-code": "GRD",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Guatemala",
+    "GDP per capita": 9009,
+    "Life expectancy": 74.1,
+    "ISO-code": "GTM",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Guinea",
+    "GDP per capita": 2574,
+    "Life expectancy": 61.2,
+    "ISO-code": "GIN",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Guinea",
+    "GDP per capita": 2113,
+    "Life expectancy": 58,
+    "ISO-code": "GIN",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Guyana",
+    "GDP per capita": 17163,
+    "Life expectancy": 69.8,
+    "ISO-code": "GUY",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Haiti",
+    "GDP per capita": 1916,
+    "Life expectancy": 63.7,
+    "ISO-code": "HTI",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Honduras",
+    "GDP per capita": 5600,
+    "Life expectancy": 75.1,
+    "ISO-code": "HND",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Hong Kong",
+    "GDP per capita": 66527,
+    "Life expectancy": 84.7,
+    "ISO-code": "HKG",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Hungary",
+    "GDP per capita": 35941,
+    "Life expectancy": 76.7,
+    "ISO-code": "HUN",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Iceland",
+    "GDP per capita": 56974,
+    "Life expectancy": 82.9,
+    "ISO-code": "ISL",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "India",
+    "GDP per capita": 9027,
+    "Life expectancy": 69.4,
+    "ISO-code": "IND",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Indonesia",
+    "GDP per capita": 14841,
+    "Life expectancy": 71.5,
+    "ISO-code": "IDN",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Iran",
+    "GDP per capita": 17832,
+    "Life expectancy": 76.5,
+    "ISO-code": "IRN",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Iraq",
+    "GDP per capita": 18755,
+    "Life expectancy": 70.5,
+    "ISO-code": "IRQ",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Ireland",
+    "GDP per capita": 86988,
+    "Life expectancy": 82.1,
+    "ISO-code": "IRL",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Israel",
+    "GDP per capita": 40337,
+    "Life expectancy": 82.8,
+    "ISO-code": "ISR",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Italy",
+    "GDP per capita": 41582,
+    "Life expectancy": 83.6,
+    "ISO-code": "ITA",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Ivory Coast",
+    "GDP per capita": 4754,
+    "Life expectancy": 57.4,
+    "ISO-code": "CIV",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Jamaica",
+    "GDP per capita": 9932,
+    "Life expectancy": 74.4,
+    "ISO-code": "JAM",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Japan",
+    "GDP per capita": 46827,
+    "Life expectancy": 84.5,
+    "ISO-code": "JPN",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Jordan",
+    "GDP per capita": 9939,
+    "Life expectancy": 74.4,
+    "ISO-code": "JOR",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kazakhstan",
+    "GDP per capita": 30178,
+    "Life expectancy": 73.2,
+    "ISO-code": "KAZ",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kenya",
+    "GDP per capita": 4078,
+    "Life expectancy": 63.3,
+    "ISO-code": "KEN",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Kiribati",
+    "GDP per capita": 2193,
+    "Life expectancy": 68.1,
+    "ISO-code": "KIR",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Kuwait",
+    "GDP per capita": 67891,
+    "Life expectancy": 75.4,
+    "ISO-code": "KWT",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "GDP per capita": 4193,
+    "Life expectancy": 71.3,
+    "ISO-code": "KGZ",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Laos",
+    "GDP per capita": 8684,
+    "Life expectancy": 67.6,
+    "ISO-code": "LAO",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Latvia",
+    "GDP per capita": 32987,
+    "Life expectancy": 75.2,
+    "ISO-code": "LVA",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Lebanon",
+    "GDP per capita": 15599,
+    "Life expectancy": 78.9,
+    "ISO-code": "LBN",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Lesotho",
+    "GDP per capita": 3655,
+    "Life expectancy": 53.7,
+    "ISO-code": "LSO",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Liberia",
+    "GDP per capita": 1428,
+    "Life expectancy": 63.7,
+    "ISO-code": "LBR",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Libya",
+    "GDP per capita": 9446,
+    "Life expectancy": 72.7,
+    "ISO-code": "LBY",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Lithuania",
+    "GDP per capita": 38751,
+    "Life expectancy": 75.7,
+    "ISO-code": "LTU",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Luxembourg",
+    "GDP per capita": 112045,
+    "Life expectancy": 82.1,
+    "ISO-code": "LUX",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Madagascar",
+    "GDP per capita": 1776,
+    "Life expectancy": 66.7,
+    "ISO-code": "MDG",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malawi",
+    "GDP per capita": 1292,
+    "Life expectancy": 63.8,
+    "ISO-code": "MWI",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malaysia",
+    "GDP per capita": 34567,
+    "Life expectancy": 76.1,
+    "ISO-code": "MYS",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Mali",
+    "GDP per capita": 2569,
+    "Life expectancy": 58.9,
+    "ISO-code": "MLI",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malta",
+    "GDP per capita": 49589,
+    "Life expectancy": 82.4,
+    "ISO-code": "MLT",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Marshall Islands",
+    "GDP per capita": 3972,
+    "Life expectancy": 73.9,
+    "ISO-code": "MHL",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Mauritania",
+    "GDP per capita": 5158,
+    "Life expectancy": 64.7,
+    "ISO-code": "MRT",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mauritius",
+    "GDP per capita": 26461,
+    "Life expectancy": 74.9,
+    "ISO-code": "MUS",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mexico",
+    "GDP per capita": 21363,
+    "Life expectancy": 75,
+    "ISO-code": "MEX",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Micronesia",
+    "GDP per capita": 3657,
+    "Life expectancy": 67.8,
+    "ISO-code": "FSM",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Moldova",
+    "GDP per capita": 8161,
+    "Life expectancy": 71.8,
+    "ISO-code": "MDA",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Mongolia",
+    "GDP per capita": 15089,
+    "Life expectancy": 69.7,
+    "ISO-code": "MNG",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Montenegro",
+    "GDP per capita": 21977,
+    "Life expectancy": 76.8,
+    "ISO-code": "MNE",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Morocco",
+    "GDP per capita": 9667,
+    "Life expectancy": 76.5,
+    "ISO-code": "MAR",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mozambique",
+    "GDP per capita": 1372,
+    "Life expectancy": 60.2,
+    "ISO-code": "MOZ",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Myanmar",
+    "GDP per capita": 7220,
+    "Life expectancy": 66.9,
+    "ISO-code": "MMR",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Namibia",
+    "GDP per capita": 11451,
+    "Life expectancy": 63.4,
+    "ISO-code": "NAM",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Nepal",
+    "GDP per capita": 3550,
+    "Life expectancy": 70.5,
+    "ISO-code": "NPL",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Netherlands",
+    "GDP per capita": 60299,
+    "Life expectancy": 82.1,
+    "ISO-code": "NLD",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "New Zealand",
+    "GDP per capita": 42045,
+    "Life expectancy": 82.1,
+    "ISO-code": "NZL",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Nicaragua",
+    "GDP per capita": 5297,
+    "Life expectancy": 74.3,
+    "ISO-code": "NIC",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Niger",
+    "GDP per capita": 1152,
+    "Life expectancy": 62,
+    "ISO-code": "NER",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Nigeria",
+    "GDP per capita": 6172,
+    "Life expectancy": 54.3,
+    "ISO-code": "NGA",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "North Macedonia",
+    "GDP per capita": 17378,
+    "Life expectancy": 75.7,
+    "ISO-code": "MKD",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Norway",
+    "GDP per capita": 79638,
+    "Life expectancy": 82.5,
+    "ISO-code": "NOR",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Oman",
+    "GDP per capita": 48593,
+    "Life expectancy": 77.6,
+    "ISO-code": "OMN",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Pakistan",
+    "GDP per capita": 6016,
+    "Life expectancy": 67.1,
+    "ISO-code": "PAK",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Palau",
+    "GDP per capita": 16855,
+    "Life expectancy": 73.7,
+    "ISO-code": "PLW",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Palestine",
+    "GDP per capita": 28456,
+    "Life expectancy": 73.9,
+    "ISO-code": "PSE",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Panama",
+    "GDP per capita": 4081,
+    "Life expectancy": 78.3,
+    "ISO-code": "PAN",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "GDP per capita": 13213,
+    "Life expectancy": 64.3,
+    "ISO-code": "PNG",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Paraguay",
+    "GDP per capita": 15399,
+    "Life expectancy": 74.1,
+    "ISO-code": "PRY",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Peru",
+    "GDP per capita": 10094,
+    "Life expectancy": 76.5,
+    "ISO-code": "PER",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Philippines",
+    "GDP per capita": 35651,
+    "Life expectancy": 71.1,
+    "ISO-code": "PHL",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Poland",
+    "GDP per capita": 34936,
+    "Life expectancy": 78.5,
+    "ISO-code": "POL",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Portugal",
+    "GDP per capita": 7336,
+    "Life expectancy": 81.9,
+    "ISO-code": "PRT",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Republic of the Congo",
+    "GDP per capita": 29555,
+    "Life expectancy": 64.3,
+    "ISO-code": "COG",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Romania",
+    "GDP per capita": 30820,
+    "Life expectancy": 75.9,
+    "ISO-code": "ROU",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Russia",
+    "GDP per capita": 2642,
+    "Life expectancy": 72.4,
+    "ISO-code": "RUS",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Rwanda",
+    "GDP per capita": 31950,
+    "Life expectancy": 68.7,
+    "ISO-code": "RWA",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "GDP per capita": 15159,
+    "Life expectancy": 74.6,
+    "ISO-code": "KNA",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Saint Lucia",
+    "GDP per capita": 12983,
+    "Life expectancy": 76.1,
+    "ISO-code": "LCA",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "GDP per capita": 6493,
+    "Life expectancy": 72.4,
+    "ISO-code": "VCT",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Samoa",
+    "GDP per capita": 6493,
+    "Life expectancy": 73.2,
+    "ISO-code": "WSM",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "GDP per capita": 56912,
+    "Life expectancy": 75,
+    "ISO-code": "SAU",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Senegal",
+    "GDP per capita": 4079,
+    "Life expectancy": 67.7,
+    "ISO-code": "SEN",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Serbia",
+    "GDP per capita": 19767,
+    "Life expectancy": 75.8,
+    "ISO-code": "SRB",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Seychelles",
+    "GDP per capita": 33118,
+    "Life expectancy": 73.3,
+    "ISO-code": "SYC",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Sierra Leone",
+    "GDP per capita": 1765,
+    "Life expectancy": 54.3,
+    "ISO-code": "SLE",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Singapore",
+    "GDP per capita": 105689,
+    "Life expectancy": 83.8,
+    "ISO-code": "SGP",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Slovakia",
+    "GDP per capita": 38321,
+    "Life expectancy": 77.4,
+    "ISO-code": "SVK",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Slovenia",
+    "GDP per capita": 40344,
+    "Life expectancy": 81.2,
+    "ISO-code": "SVN",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Solomon Islands",
+    "GDP per capita": 2363,
+    "Life expectancy": 72.8,
+    "ISO-code": "SLB",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Somalia",
+    "GDP per capita": 314.5,
+    "Life expectancy": 56.7,
+    "ISO-code": "SOM",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "South Africa",
+    "GDP per capita": 13965,
+    "Life expectancy": 63.9,
+    "ISO-code": "ZAF",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "South Sudan",
+    "GDP per capita": 1715,
+    "Life expectancy": 57.6,
+    "ISO-code": "SSD",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Spain",
+    "GDP per capita": 43007,
+    "Life expectancy": 83.4,
+    "ISO-code": "ESP",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Sri Lanka",
+    "GDP per capita": 14509,
+    "Life expectancy": 76.8,
+    "ISO-code": "LKA",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Sudan",
+    "GDP per capita": 3986,
+    "Life expectancy": 65.1,
+    "ISO-code": "SDN",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Suriname",
+    "GDP per capita": 16044,
+    "Life expectancy": 71.6,
+    "ISO-code": "SUR",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Sweden",
+    "GDP per capita": 55989,
+    "Life expectancy": 82.7,
+    "ISO-code": "SWE",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Tajikistan",
+    "GDP per capita": 3751,
+    "Life expectancy": 70.9,
+    "ISO-code": "TJK",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Tanzania",
+    "GDP per capita": 3652,
+    "Life expectancy": 65,
+    "ISO-code": "TZA",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Thailand",
+    "GDP per capita": 21361,
+    "Life expectancy": 76.9,
+    "ISO-code": "THA",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "The Bahamas",
+    "GDP per capita": 33432,
+    "Life expectancy": 73.8,
+    "ISO-code": "BHS",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "The Gambia",
+    "GDP per capita": 2892,
+    "Life expectancy": 61.7,
+    "ISO-code": "GMB",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Togo",
+    "GDP per capita": 1913,
+    "Life expectancy": 60.8,
+    "ISO-code": "TGO",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Tonga",
+    "GDP per capita": 6867,
+    "Life expectancy": 70.8,
+    "ISO-code": "TON",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "GDP per capita": 33713,
+    "Life expectancy": 73.4,
+    "ISO-code": "TTO",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Tunisia",
+    "GDP per capita": 13093,
+    "Life expectancy": 76.5,
+    "ISO-code": "TUN",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Turkey",
+    "GDP per capita": 29327,
+    "Life expectancy": 78.3,
+    "ISO-code": "TUR",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Turkmenistan",
+    "GDP per capita": 21855,
+    "Life expectancy": 68.1,
+    "ISO-code": "TKM",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Uganda",
+    "GDP per capita": 2753,
+    "Life expectancy": 63,
+    "ISO-code": "UGA",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Ukraine",
+    "GDP per capita": 10130,
+    "Life expectancy": 72,
+    "ISO-code": "UKR",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "GDP per capita": 70441,
+    "Life expectancy": 77.8,
+    "ISO-code": "ARE",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "United Kingdom",
+    "GDP per capita": 48169,
+    "Life expectancy": 81.2,
+    "ISO-code": "GBR",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "United States",
+    "GDP per capita": 67426,
+    "Life expectancy": 78.9,
+    "ISO-code": "USA",
+    "Continent": "North Africa"
+  },
+  {
+    "Country": "Uruguay",
+    "GDP per capita": 24516,
+    "Life expectancy": 77.8,
+    "ISO-code": "URY",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Uzbekistan",
+    "GDP per capita": 9595,
+    "Life expectancy": 71.5,
+    "ISO-code": "UZB",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Vanuatu",
+    "GDP per capita": 3039,
+    "Life expectancy": 70.3,
+    "ISO-code": "VUT",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Venezuela",
+    "GDP per capita": 16055,
+    "Life expectancy": 72.1,
+    "ISO-code": "VEN",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Vietnam",
+    "GDP per capita": 8677,
+    "Life expectancy": 75.3,
+    "ISO-code": "VNM",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Yemen",
+    "GDP per capita": 2312,
+    "Life expectancy": 66.1,
+    "ISO-code": "YEM",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Zambia",
+    "GDP per capita": 4174,
+    "Life expectancy": 63.5,
+    "ISO-code": "ZMB",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Zimbabwe",
+    "GDP per capita": 2778,
+    "Life expectancy": 61.2,
+    "ISO-code": "ZWE",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "DR Congo",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "COD",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "South Korea",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "KOR",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "North Korea",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "PRK",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Taiwan",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "TWN",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Syria",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "SYR",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Czech Republic",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "CZE",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Switzerland",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "CHE",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Congo",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "COG",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "State of Palestine",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "PSE",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Qatar",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "QAT",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Albania",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "ALB",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Puerto Rico",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "PRI",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Timor-Leste",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "TLS",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "GNB",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Reunion",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "REU",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Macao",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "MAC",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Western Sahara",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "ESH",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Cabo Verde",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "CPV",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Maldives",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "MDV",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Guadeloupe",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "GLP",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "French Guiana",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "GUF",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "New Caledonia",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "NCL",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "French Polynesia",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "PYF",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Mayotte",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "MYT",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Sao Tome & Principe",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "STP",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Guam",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "GUM",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Curaçao",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "CUW",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "St. Vincent & Grenadines",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "VCT",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Aruba",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "ABW",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "U.S. Virgin Islands",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "VIR",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Isle of Man",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "IMN",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Andorra",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "AND",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Dominica",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "DMA",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Cayman Islands",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "CYM",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Bermuda",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "BMU",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "MNP",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "American Samoa",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "ASM",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Saint Kitts & Nevis",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "KNA",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Faeroe Islands",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "FRO",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Sint Maarten",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "SXM",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Monaco",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "MCO",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Turks and Caicos",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "TCA",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Saint Martin",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "MAF",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Liechtenstein",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "LIE",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "San Marino",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "SMR",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Gibraltar",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "GIB",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "British Virgin Islands",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "VGB",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Cook Islands",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "COK",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Anguilla",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "AIA",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Tuvalu",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "TUV",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Wallis & Futuna",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "WLF",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Nauru",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "NRU",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Saint Barthelemy",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "BLM",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Saint Helena",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "SHN",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Saint Pierre & Miquelon",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "SPM",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Montserrat",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "MSR",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Falkland Islands",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "FLK",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Niue",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "NIU",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Tokelau",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "TKL",
+    "Continent": "N/A"
+  },
+  {
+    "Country": "Holy See",
+    "GDP per capita": "N/A",
+    "Life expectancy": "N/A",
+    "ISO-code": "VAT",
+    "Continent": "N/A"
+  }
+]
