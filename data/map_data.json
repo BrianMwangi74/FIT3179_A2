@@ -1492,7 +1492,7 @@
     "GDP per capita": "N/A",
     "Life expectancy": "",
     "ISO-code": "CHE",
-    "Continent": "",
+    "Continent": 0,
     "Rank": "N/A"
   },
   {
