@@ -2,7 +2,7 @@
   {
     "Country": "Afghanistan",
     "ISO-code": "AFG",
-    "Population": 397428,
+    "Population": 39074280,
     "GDP per capita": 2182,
     "Fertility rate": 4.6,
     "Continent": "Asia"
@@ -26,7 +26,7 @@
   {
     "Country": "Angola",
     "ISO-code": "AGO",
-    "Population": 333275,
+    "Population": 33032075,
     "GDP per capita": 6763,
     "Fertility rate": 5.6,
     "Continent": "Africa"
@@ -34,7 +34,7 @@
   {
     "Country": "Antigua and Barbuda",
     "ISO-code": "ATG",
-    "Population": 9869,
+    "Population": 98069,
     "GDP per capita": 30593,
     "Fertility rate": 2,
     "Continent": "North America"
@@ -58,7 +58,7 @@
   {
     "Country": "Australia",
     "ISO-code": "AUS",
-    "Population": 2555683,
+    "Population": 25550683,
     "GDP per capita": 54799,
     "Fertility rate": 1.8,
     "Continent": "Oceania"
@@ -66,7 +66,7 @@
   {
     "Country": "Austria",
     "ISO-code": "AUT",
-    "Population": 915361,
+    "Population": 9015361,
     "GDP per capita": 55171,
     "Fertility rate": 1.5,
     "Continent": "Europe"
@@ -74,7 +74,7 @@
   {
     "Country": "Azerbaijan",
     "ISO-code": "AZE",
-    "Population": 1154978,
+    "Population": 10154978,
     "GDP per capita": 19156,
     "Fertility rate": 2.1,
     "Continent": "Asia"
@@ -82,7 +82,7 @@
   {
     "Country": "Bahrain",
     "ISO-code": "BHR",
-    "Population": 171157,
+    "Population": 1711057,
     "GDP per capita": 51991,
     "Fertility rate": 2,
     "Continent": "Asia"
@@ -130,7 +130,7 @@
   {
     "Country": "Benin",
     "ISO-code": "BEN",
-    "Population": 1217548,
+    "Population": 12175480,
     "GDP per capita": 3648,
     "Fertility rate": 4.9,
     "Continent": "Africa"
@@ -138,7 +138,7 @@
   {
     "Country": "Bhutan",
     "ISO-code": "BTN",
-    "Population": 77369,
+    "Population": 773069,
     "GDP per capita": 10627,
     "Fertility rate": 2,
     "Continent": "Asia"
@@ -146,7 +146,7 @@
   {
     "Country": "Bolivia",
     "ISO-code": "BOL",
-    "Population": 11727,
+    "Population": 11700207,
     "GDP per capita": 8525,
     "Fertility rate": 2.8,
     "Continent": "South America"
@@ -178,7 +178,7 @@
   {
     "Country": "Brunei",
     "ISO-code": "BRN",
-    "Population": 43822,
+    "Population": 438202,
     "GDP per capita": 85011,
     "Fertility rate": 1.8,
     "Continent": "Asia"
@@ -186,7 +186,7 @@
   {
     "Country": "Bulgaria",
     "ISO-code": "BGR",
-    "Population": 693918,
+    "Population": 6939018,
     "GDP per capita": 26034,
     "Fertility rate": 1.6,
     "Continent": "Europe"
@@ -194,7 +194,7 @@
   {
     "Country": "Burkina Faso",
     "ISO-code": "BFA",
-    "Population": 2997293,
+    "Population": 20997293,
     "GDP per capita": 2181,
     "Fertility rate": 5.2,
     "Continent": "Africa"
@@ -218,7 +218,7 @@
   {
     "Country": "Cameroon",
     "ISO-code": "CMR",
-    "Population": 2665583,
+    "Population": 26655083,
     "GDP per capita": 4099,
     "Fertility rate": 4.6,
     "Continent": "Africa"
@@ -226,7 +226,7 @@
   {
     "Country": "Canada",
     "ISO-code": "CAN",
-    "Population": 3779947,
+    "Population": 37799407,
     "GDP per capita": 52144,
     "Fertility rate": 1.5,
     "Continent": "North America"
@@ -242,7 +242,7 @@
   {
     "Country": "Chad",
     "ISO-code": "TCD",
-    "Population": 1652877,
+    "Population": 16502877,
     "GDP per capita": 2603,
     "Fertility rate": 5.8,
     "Continent": "Africa"
@@ -250,7 +250,7 @@
   {
     "Country": "Chile",
     "ISO-code": "CHL",
-    "Population": 1914465,
+    "Population": 19144605,
     "GDP per capita": 27150,
     "Fertility rate": 1.7,
     "Continent": "South America"
@@ -258,7 +258,7 @@
   {
     "Country": "China",
     "ISO-code": "CHN",
-    "Population": 144297825,
+    "Population": 1440297825,
     "GDP per capita": 20984,
     "Fertility rate": 1.7,
     "Continent": "Asia"
@@ -266,7 +266,7 @@
   {
     "Country": "Colombia",
     "ISO-code": "COL",
-    "Population": 5976248,
+    "Population": 50976248,
     "GDP per capita": 16265,
     "Fertility rate": 1.8,
     "Continent": "South America"
@@ -282,7 +282,7 @@
   {
     "Country": "Costa Rica",
     "ISO-code": "CRI",
-    "Population": 512158,
+    "Population": 5102158,
     "GDP per capita": 18651,
     "Fertility rate": 1.8,
     "Continent": "North America"
@@ -290,7 +290,7 @@
   {
     "Country": "Croatia",
     "ISO-code": "HRV",
-    "Population": 41719,
+    "Population": 4100719,
     "GDP per capita": 29207,
     "Fertility rate": 1.4,
     "Continent": "Europe"
@@ -306,7 +306,7 @@
   {
     "Country": "Cyprus",
     "ISO-code": "CYP",
-    "Population": 128886,
+    "Population": 1208886,
     "GDP per capita": 42956,
     "Fertility rate": 1.3,
     "Continent": "Europe"
@@ -314,7 +314,7 @@
   {
     "Country": "Denmark",
     "ISO-code": "DNK",
-    "Population": 579578,
+    "Population": 5795780,
     "GDP per capita": 55675,
     "Fertility rate": 1.8,
     "Continent": "Europe"
@@ -322,7 +322,7 @@
   {
     "Country": "Djibouti",
     "ISO-code": "DJI",
-    "Population": 99447,
+    "Population": 990447,
     "GDP per capita": 5855,
     "Fertility rate": 2.8,
     "Continent": "Africa"
@@ -330,7 +330,7 @@
   {
     "Country": "Dominican Republic",
     "ISO-code": "DOM",
-    "Population": 1866667,
+    "Population": 10866667,
     "GDP per capita": 20625,
     "Fertility rate": 2.4,
     "Continent": "North America"
@@ -346,7 +346,7 @@
   {
     "Country": "Egypt",
     "ISO-code": "EGY",
-    "Population": 12659126,
+    "Population": 102659126,
     "GDP per capita": 14800,
     "Fertility rate": 3.3,
     "Continent": "Africa"
@@ -362,7 +362,7 @@
   {
     "Country": "Equatorial Guinea",
     "ISO-code": "GNQ",
-    "Population": 141419,
+    "Population": 1410419,
     "GDP per capita": 19961,
     "Fertility rate": 4.6,
     "Continent": "Africa"
@@ -418,7 +418,7 @@
   {
     "Country": "France",
     "ISO-code": "FRA",
-    "Population": 6529893,
+    "Population": 65298930,
     "GDP per capita": 48640,
     "Fertility rate": 1.9,
     "Continent": "Europe"
@@ -434,7 +434,7 @@
   {
     "Country": "Georgia",
     "ISO-code": "GEO",
-    "Population": 398785,
+    "Population": 3987805,
     "GDP per capita": 13200,
     "Fertility rate": 2.1,
     "Continent": "Europe"
@@ -442,7 +442,7 @@
   {
     "Country": "Germany",
     "ISO-code": "DEU",
-    "Population": 8383972,
+    "Population": 83830972,
     "GDP per capita": 55306,
     "Fertility rate": 1.6,
     "Continent": "Europe"
@@ -458,7 +458,7 @@
   {
     "Country": "Greece",
     "ISO-code": "GRC",
-    "Population": 1413936,
+    "Population": 10413936,
     "GDP per capita": 31616,
     "Fertility rate": 1.3,
     "Continent": "Europe"
@@ -514,7 +514,7 @@
   {
     "Country": "Hong Kong",
     "ISO-code": "HKG",
-    "Population": 757523,
+    "Population": 7507523,
     "GDP per capita": 66527,
     "Fertility rate": 1.3,
     "Continent": "Asia"
@@ -538,7 +538,7 @@
   {
     "Country": "India",
     "ISO-code": "IND",
-    "Population": 138234585,
+    "Population": 1382345085,
     "GDP per capita": 9027,
     "Fertility rate": 2.2,
     "Continent": "Asia"
@@ -546,7 +546,7 @@
   {
     "Country": "Indonesia",
     "ISO-code": "IDN",
-    "Population": 2742164,
+    "Population": 274021604,
     "GDP per capita": 14841,
     "Fertility rate": 2.3,
     "Continent": "Asia"
@@ -562,7 +562,7 @@
   {
     "Country": "Iraq",
     "ISO-code": "IRQ",
-    "Population": 4372771,
+    "Population": 40372771,
     "GDP per capita": 18755,
     "Fertility rate": 3.7,
     "Continent": "Asia"
@@ -586,7 +586,7 @@
   {
     "Country": "Italy",
     "ISO-code": "ITA",
-    "Population": 644635,
+    "Population": 60446035,
     "GDP per capita": 41582,
     "Fertility rate": 1.3,
     "Continent": "Europe"
@@ -602,7 +602,7 @@
   {
     "Country": "Japan",
     "ISO-code": "JPN",
-    "Population": 12647422,
+    "Population": 126407422,
     "GDP per capita": 46827,
     "Fertility rate": 1.4,
     "Continent": "Asia"
@@ -610,7 +610,7 @@
   {
     "Country": "Jordan",
     "ISO-code": "JOR",
-    "Population": 12264,
+    "Population": 10220604,
     "GDP per capita": 9939,
     "Fertility rate": 2.8,
     "Continent": "Asia"
@@ -634,7 +634,7 @@
   {
     "Country": "Kiribati",
     "ISO-code": "KIR",
-    "Population": 11976,
+    "Population": 119760,
     "GDP per capita": 2193,
     "Fertility rate": 3.6,
     "Continent": "Oceania"
@@ -642,7 +642,7 @@
   {
     "Country": "Kuwait",
     "ISO-code": "KWT",
-    "Population": 428132,
+    "Population": 4281320,
     "GDP per capita": 67891,
     "Fertility rate": 2.1,
     "Continent": "Asia"
@@ -666,7 +666,7 @@
   {
     "Country": "Latvia",
     "ISO-code": "LVA",
-    "Population": 188248,
+    "Population": 1882408,
     "GDP per capita": 32987,
     "Fertility rate": 1.7,
     "Continent": "Europe"
@@ -690,7 +690,7 @@
   {
     "Country": "Liberia",
     "ISO-code": "LBR",
-    "Population": 577411,
+    "Population": 5077411,
     "GDP per capita": 1428,
     "Fertility rate": 4.4,
     "Continent": "Africa"
@@ -706,7 +706,7 @@
   {
     "Country": "Lithuania",
     "ISO-code": "LTU",
-    "Population": 271534,
+    "Population": 2715340,
     "GDP per capita": 38751,
     "Fertility rate": 1.7,
     "Continent": "Europe"
@@ -714,7 +714,7 @@
   {
     "Country": "Luxembourg",
     "ISO-code": "LUX",
-    "Population": 62774,
+    "Population": 627704,
     "GDP per capita": 112045,
     "Fertility rate": 1.5,
     "Continent": "Europe"
@@ -722,7 +722,7 @@
   {
     "Country": "Madagascar",
     "ISO-code": "MDG",
-    "Population": 2788395,
+    "Population": 27808395,
     "GDP per capita": 1776,
     "Fertility rate": 4.1,
     "Continent": "Africa"
@@ -754,7 +754,7 @@
   {
     "Country": "Mali",
     "ISO-code": "MLI",
-    "Population": 234616,
+    "Population": 20346106,
     "GDP per capita": 2569,
     "Fertility rate": 5.9,
     "Continent": "Africa"
@@ -762,7 +762,7 @@
   {
     "Country": "Malta",
     "ISO-code": "MLT",
-    "Population": 44175,
+    "Population": 441750,
     "GDP per capita": 49589,
     "Fertility rate": 1.5,
     "Continent": "Europe"
@@ -778,7 +778,7 @@
   {
     "Country": "Mauritius",
     "ISO-code": "MUS",
-    "Population": 127214,
+    "Population": 1272140,
     "GDP per capita": 26461,
     "Fertility rate": 1.4,
     "Continent": "Africa"
@@ -786,7 +786,7 @@
   {
     "Country": "Mexico",
     "ISO-code": "MEX",
-    "Population": 12916628,
+    "Population": 129166028,
     "GDP per capita": 21363,
     "Fertility rate": 2.1,
     "Continent": "North America"
@@ -802,7 +802,7 @@
   {
     "Country": "Moldova",
     "ISO-code": "MDA",
-    "Population": 432294,
+    "Population": 4032294,
     "GDP per capita": 8161,
     "Fertility rate": 1.3,
     "Continent": "Europe"
@@ -818,7 +818,7 @@
   {
     "Country": "Montenegro",
     "ISO-code": "MNE",
-    "Population": 6288,
+    "Population": 628080,
     "GDP per capita": 21977,
     "Fertility rate": 1.8,
     "Continent": "Europe"
@@ -874,7 +874,7 @@
   {
     "Country": "New Zealand",
     "ISO-code": "NZL",
-    "Population": 482921,
+    "Population": 4829021,
     "GDP per capita": 42045,
     "Fertility rate": 1.9,
     "Continent": "Oceania"
@@ -882,7 +882,7 @@
   {
     "Country": "Nicaragua",
     "ISO-code": "NIC",
-    "Population": 663875,
+    "Population": 6638075,
     "GDP per capita": 5297,
     "Fertility rate": 2.4,
     "Continent": "North America"
@@ -898,7 +898,7 @@
   {
     "Country": "Nigeria",
     "ISO-code": "NGA",
-    "Population": 26984347,
+    "Population": 206984347,
     "GDP per capita": 6172,
     "Fertility rate": 5.4,
     "Continent": "Africa"
@@ -906,7 +906,7 @@
   {
     "Country": "North Macedonia",
     "ISO-code": "MKD",
-    "Population": 283359,
+    "Population": 2083359,
     "GDP per capita": 17378,
     "Fertility rate": 1.5,
     "Continent": "Europe"
@@ -922,7 +922,7 @@
   {
     "Country": "Oman",
     "ISO-code": "OMN",
-    "Population": 512858,
+    "Population": 5128058,
     "GDP per capita": 48593,
     "Fertility rate": 2.9,
     "Continent": "Asia"
@@ -962,7 +962,7 @@
   {
     "Country": "Peru",
     "ISO-code": "PER",
-    "Population": 335211,
+    "Population": 33050211,
     "GDP per capita": 15399,
     "Fertility rate": 2.3,
     "Continent": "South America"
@@ -970,7 +970,7 @@
   {
     "Country": "Philippines",
     "ISO-code": "PHL",
-    "Population": 1983324,
+    "Population": 109830324,
     "GDP per capita": 10094,
     "Fertility rate": 2.6,
     "Continent": "Asia"
@@ -986,7 +986,7 @@
   {
     "Country": "Portugal",
     "ISO-code": "PRT",
-    "Population": 119149,
+    "Population": 10191409,
     "GDP per capita": 34936,
     "Fertility rate": 1.3,
     "Continent": "Europe"
@@ -994,7 +994,7 @@
   {
     "Country": "Puerto Rico",
     "ISO-code": "PRI",
-    "Population": 284686,
+    "Population": 2846860,
     "GDP per capita": 41198,
     "Fertility rate": 1.2,
     "Continent": "North America"
@@ -1002,7 +1002,7 @@
   {
     "Country": "Romania",
     "ISO-code": "ROU",
-    "Population": 1921468,
+    "Population": 19214608,
     "GDP per capita": 29555,
     "Fertility rate": 1.6,
     "Continent": "Europe"
@@ -1018,7 +1018,7 @@
   {
     "Country": "Rwanda",
     "ISO-code": "RWA",
-    "Population": 13533,
+    "Population": 13005303,
     "GDP per capita": 2642,
     "Fertility rate": 4.1,
     "Continent": "Africa"
@@ -1042,7 +1042,7 @@
   {
     "Country": "Saudi Arabia",
     "ISO-code": "SAU",
-    "Population": 3495942,
+    "Population": 34905942,
     "GDP per capita": 56912,
     "Fertility rate": 2.3,
     "Continent": "Asia"
@@ -1058,7 +1058,7 @@
   {
     "Country": "Serbia",
     "ISO-code": "SRB",
-    "Population": 873181,
+    "Population": 8731081,
     "GDP per capita": 19767,
     "Fertility rate": 1.5,
     "Continent": "Europe"
@@ -1074,7 +1074,7 @@
   {
     "Country": "Sierra Leone",
     "ISO-code": "SLE",
-    "Population": 84158,
+    "Population": 8004158,
     "GDP per capita": 1765,
     "Fertility rate": 4.3,
     "Continent": "Africa"
@@ -1090,7 +1090,7 @@
   {
     "Country": "Slovakia",
     "ISO-code": "SVK",
-    "Population": 54619,
+    "Population": 5460109,
     "GDP per capita": 38321,
     "Fertility rate": 1.5,
     "Continent": "Europe"
@@ -1098,7 +1098,7 @@
   {
     "Country": "Slovenia",
     "ISO-code": "SVN",
-    "Population": 278989,
+    "Population": 2078989,
     "GDP per capita": 40344,
     "Fertility rate": 1.6,
     "Continent": "Europe"
@@ -1138,7 +1138,7 @@
   {
     "Country": "South Sudan",
     "ISO-code": "SSD",
-    "Population": 1121625,
+    "Population": 11216250,
     "GDP per capita": 1715,
     "Fertility rate": 4.7,
     "Continent": "Africa"
@@ -1146,7 +1146,7 @@
   {
     "Country": "Spain",
     "ISO-code": "ESP",
-    "Population": 4675798,
+    "Population": 46757980,
     "GDP per capita": 43007,
     "Fertility rate": 1.3,
     "Continent": "Europe"
@@ -1154,7 +1154,7 @@
   {
     "Country": "Sri Lanka",
     "ISO-code": "LKA",
-    "Population": 2142897,
+    "Population": 21428970,
     "GDP per capita": 14509,
     "Fertility rate": 2.2,
     "Continent": "Asia"
@@ -1162,7 +1162,7 @@
   {
     "Country": "Sudan",
     "ISO-code": "SDN",
-    "Population": 4419263,
+    "Population": 44019263,
     "GDP per capita": 3986,
     "Fertility rate": 4.4,
     "Continent": "Africa"
@@ -1178,7 +1178,7 @@
   {
     "Country": "Sweden",
     "ISO-code": "SWE",
-    "Population": 111233,
+    "Population": 10110233,
     "GDP per capita": 55989,
     "Fertility rate": 1.9,
     "Continent": "Europe"
@@ -1202,7 +1202,7 @@
   {
     "Country": "Tajikistan",
     "ISO-code": "TJK",
-    "Population": 957331,
+    "Population": 9573310,
     "GDP per capita": 3751,
     "Fertility rate": 3.6,
     "Continent": "Asia"
@@ -1210,7 +1210,7 @@
   {
     "Country": "Tanzania",
     "ISO-code": "TZA",
-    "Population": 6124,
+    "Population": 60012400,
     "GDP per capita": 3652,
     "Fertility rate": 4.9,
     "Continent": "Africa"
@@ -1218,7 +1218,7 @@
   {
     "Country": "Thailand",
     "ISO-code": "THA",
-    "Population": 6983779,
+    "Population": 69830779,
     "GDP per capita": 21361,
     "Fertility rate": 1.5,
     "Continent": "Asia"
@@ -1226,7 +1226,7 @@
   {
     "Country": "Togo",
     "ISO-code": "TGO",
-    "Population": 831934,
+    "Population": 8310934,
     "GDP per capita": 1913,
     "Fertility rate": 4.4,
     "Continent": "Oceania"
@@ -1234,7 +1234,7 @@
   {
     "Country": "Tonga",
     "ISO-code": "TON",
-    "Population": 1591,
+    "Population": 105901,
     "GDP per capita": 6867,
     "Fertility rate": 3.6,
     "Continent": "Oceania"
@@ -1242,7 +1242,7 @@
   {
     "Country": "Trinidad and Tobago",
     "ISO-code": "TTO",
-    "Population": 14283,
+    "Population": 1400283,
     "GDP per capita": 33713,
     "Fertility rate": 1.7,
     "Continent": "North America"
@@ -1266,7 +1266,7 @@
   {
     "Country": "Turkmenistan",
     "ISO-code": "TKM",
-    "Population": 646292,
+    "Population": 6046292,
     "GDP per capita": 21855,
     "Fertility rate": 2.8,
     "Continent": "Asia"
@@ -1290,7 +1290,7 @@
   {
     "Country": "United Arab Emirates",
     "ISO-code": "ARE",
-    "Population": 991892,
+    "Population": 9910892,
     "GDP per capita": 70441,
     "Fertility rate": 1.4,
     "Continent": "Asia"
@@ -1306,7 +1306,7 @@
   {
     "Country": "United States",
     "ISO-code": "USA",
-    "Population": 3313415,
+    "Population": 331341050,
     "GDP per capita": 67426,
     "Fertility rate": 1.8,
     "Continent": "North America"
@@ -1330,7 +1330,7 @@
   {
     "Country": "Vanuatu",
     "ISO-code": "VUT",
-    "Population": 38337,
+    "Population": 308337,
     "GDP per capita": 3039,
     "Fertility rate": 3.8,
     "Continent": "Oceania"
@@ -1346,7 +1346,7 @@
   {
     "Country": "Vietnam",
     "ISO-code": "VNM",
-    "Population": 974913,
+    "Population": 97490013,
     "GDP per capita": 8677,
     "Fertility rate": 2.1,
     "Continent": "Asia"
