@@ -488,16 +488,8 @@
     "Continent": "Africa"
   },
   {
-    "Country": "Guinea",
-    "Population": 787215,
-    "GDP per capita": 2113,
-    "Life expectancy": 58,
-    "ISO-code": "GIN",
-    "Continent": "Africa"
-  },
-  {
     "Country": "Guyana",
-    "Population": 11426356,
+    "Population": 787215,
     "GDP per capita": 17163,
     "Life expectancy": 69.8,
     "ISO-code": "GUY",
@@ -505,7 +497,7 @@
   },
   {
     "Country": "Haiti",
-    "Population": 9931333,
+    "Population": 11426356,
     "GDP per capita": 1916,
     "Life expectancy": 63.7,
     "ISO-code": "HTI",
@@ -513,7 +505,7 @@
   },
   {
     "Country": "Honduras",
-    "Population": 7507523,
+    "Population": 9931333,
     "GDP per capita": 5600,
     "Life expectancy": 75.1,
     "ISO-code": "HND",
@@ -521,7 +513,7 @@
   },
   {
     "Country": "Hong Kong",
-    "Population": 9655983,
+    "Population": 7507523,
     "GDP per capita": 66527,
     "Life expectancy": 84.7,
     "ISO-code": "HKG",
@@ -529,7 +521,7 @@
   },
   {
     "Country": "Hungary",
-    "Population": 341628,
+    "Population": 9655983,
     "GDP per capita": 35941,
     "Life expectancy": 76.7,
     "ISO-code": "HUN",
@@ -537,7 +529,7 @@
   },
   {
     "Country": "Iceland",
-    "Population": 1382345085,
+    "Population": 341628,
     "GDP per capita": 56974,
     "Life expectancy": 82.9,
     "ISO-code": "ISL",
@@ -545,7 +537,7 @@
   },
   {
     "Country": "India",
-    "Population": 274021604,
+    "Population": 1382345085,
     "GDP per capita": 9027,
     "Life expectancy": 69.4,
     "ISO-code": "IND",
@@ -553,7 +545,7 @@
   },
   {
     "Country": "Indonesia",
-    "Population": 84176929,
+    "Population": 274021604,
     "GDP per capita": 14841,
     "Life expectancy": 71.5,
     "ISO-code": "IDN",
@@ -561,7 +553,7 @@
   },
   {
     "Country": "Iran",
-    "Population": 40372771,
+    "Population": 84176929,
     "GDP per capita": 17832,
     "Life expectancy": 76.5,
     "ISO-code": "IRN",
@@ -569,7 +561,7 @@
   },
   {
     "Country": "Iraq",
-    "Population": 4947267,
+    "Population": 40372771,
     "GDP per capita": 18755,
     "Life expectancy": 70.5,
     "ISO-code": "IRQ",
@@ -577,7 +569,7 @@
   },
   {
     "Country": "Ireland",
-    "Population": 8678517,
+    "Population": 4947267,
     "GDP per capita": 86988,
     "Life expectancy": 82.1,
     "ISO-code": "IRL",
@@ -585,7 +577,7 @@
   },
   {
     "Country": "Israel",
-    "Population": 60446035,
+    "Population": 8678517,
     "GDP per capita": 40337,
     "Life expectancy": 82.8,
     "ISO-code": "ISR",
@@ -593,7 +585,7 @@
   },
   {
     "Country": "Italy",
-    "Population": 2963429,
+    "Population": 60446035,
     "GDP per capita": 41582,
     "Life expectancy": 83.6,
     "ISO-code": "ITA",
@@ -601,7 +593,7 @@
   },
   {
     "Country": "Jamaica",
-    "Population": 126407422,
+    "Population": 2963429,
     "GDP per capita": 9932,
     "Life expectancy": 74.4,
     "ISO-code": "JAM",
@@ -609,7 +601,7 @@
   },
   {
     "Country": "Japan",
-    "Population": 10220604,
+    "Population": 126407422,
     "GDP per capita": 46827,
     "Life expectancy": 84.5,
     "ISO-code": "JPN",
@@ -617,7 +609,7 @@
   },
   {
     "Country": "Jordan",
-    "Population": 18815231,
+    "Population": 10220604,
     "GDP per capita": 9939,
     "Life expectancy": 74.4,
     "ISO-code": "JOR",
@@ -625,7 +617,7 @@
   },
   {
     "Country": "Kazakhstan",
-    "Population": 53968739,
+    "Population": 18815231,
     "GDP per capita": 30178,
     "Life expectancy": 73.2,
     "ISO-code": "KAZ",
@@ -633,7 +625,7 @@
   },
   {
     "Country": "Kenya",
-    "Population": 119760,
+    "Population": 53968739,
     "GDP per capita": 4078,
     "Life expectancy": 63.3,
     "ISO-code": "KEN",
@@ -641,7 +633,7 @@
   },
   {
     "Country": "Kiribati",
-    "Population": 4281320,
+    "Population": 119760,
     "GDP per capita": 2193,
     "Life expectancy": 68.1,
     "ISO-code": "KIR",
@@ -649,7 +641,7 @@
   },
   {
     "Country": "Kuwait",
-    "Population": 6542426,
+    "Population": 4281320,
     "GDP per capita": 67891,
     "Life expectancy": 75.4,
     "ISO-code": "KWT",
@@ -657,7 +649,7 @@
   },
   {
     "Country": "Kyrgyzstan",
-    "Population": 7293542,
+    "Population": 6542426,
     "GDP per capita": 4193,
     "Life expectancy": 71.3,
     "ISO-code": "KGZ",
@@ -665,7 +657,7 @@
   },
   {
     "Country": "Laos",
-    "Population": 1882408,
+    "Population": 7293542,
     "GDP per capita": 8684,
     "Life expectancy": 67.6,
     "ISO-code": "LAO",
@@ -673,7 +665,7 @@
   },
   {
     "Country": "Latvia",
-    "Population": 6819976,
+    "Population": 1882408,
     "GDP per capita": 32987,
     "Life expectancy": 75.2,
     "ISO-code": "LVA",
@@ -681,7 +673,7 @@
   },
   {
     "Country": "Lebanon",
-    "Population": 2145194,
+    "Population": 6819976,
     "GDP per capita": 15599,
     "Life expectancy": 78.9,
     "ISO-code": "LBN",
@@ -689,7 +681,7 @@
   },
   {
     "Country": "Lesotho",
-    "Population": 5077411,
+    "Population": 2145194,
     "GDP per capita": 3655,
     "Life expectancy": 53.7,
     "ISO-code": "LSO",
@@ -697,7 +689,7 @@
   },
   {
     "Country": "Liberia",
-    "Population": 6887247,
+    "Population": 5077411,
     "GDP per capita": 1428,
     "Life expectancy": 63.7,
     "ISO-code": "LBR",
@@ -705,7 +697,7 @@
   },
   {
     "Country": "Libya",
-    "Population": 2715340,
+    "Population": 6887247,
     "GDP per capita": 9446,
     "Life expectancy": 72.7,
     "ISO-code": "LBY",
@@ -713,7 +705,7 @@
   },
   {
     "Country": "Lithuania",
-    "Population": 627704,
+    "Population": 2715340,
     "GDP per capita": 38751,
     "Life expectancy": 75.7,
     "ISO-code": "LTU",
@@ -721,7 +713,7 @@
   },
   {
     "Country": "Luxembourg",
-    "Population": 27808395,
+    "Population": 627704,
     "GDP per capita": 112045,
     "Life expectancy": 82.1,
     "ISO-code": "LUX",
@@ -729,7 +721,7 @@
   },
   {
     "Country": "Madagascar",
-    "Population": 19211425,
+    "Population": 27808395,
     "GDP per capita": 1776,
     "Life expectancy": 66.7,
     "ISO-code": "MDG",
@@ -737,7 +729,7 @@
   },
   {
     "Country": "Malawi",
-    "Population": 32436963,
+    "Population": 19211425,
     "GDP per capita": 1292,
     "Life expectancy": 63.8,
     "ISO-code": "MWI",
@@ -745,7 +737,7 @@
   },
   {
     "Country": "Malaysia",
-    "Population": 20346106,
+    "Population": 32436963,
     "GDP per capita": 34567,
     "Life expectancy": 76.1,
     "ISO-code": "MYS",
@@ -753,7 +745,7 @@
   },
   {
     "Country": "Mali",
-    "Population": 441750,
+    "Population": 20346106,
     "GDP per capita": 2569,
     "Life expectancy": 58.9,
     "ISO-code": "MLI",
@@ -761,7 +753,7 @@
   },
   {
     "Country": "Malta",
-    "Population": 59259,
+    "Population": 441750,
     "GDP per capita": 49589,
     "Life expectancy": 82.4,
     "ISO-code": "MLT",
@@ -769,7 +761,7 @@
   },
   {
     "Country": "Marshall Islands",
-    "Population": 4669775,
+    "Population": 59259,
     "GDP per capita": 3972,
     "Life expectancy": 73.9,
     "ISO-code": "MHL",
@@ -777,7 +769,7 @@
   },
   {
     "Country": "Mauritania",
-    "Population": 1272140,
+    "Population": 4669775,
     "GDP per capita": 5158,
     "Life expectancy": 64.7,
     "ISO-code": "MRT",
@@ -785,7 +777,7 @@
   },
   {
     "Country": "Mauritius",
-    "Population": 129166028,
+    "Population": 1272140,
     "GDP per capita": 26461,
     "Life expectancy": 74.9,
     "ISO-code": "MUS",
@@ -793,7 +785,7 @@
   },
   {
     "Country": "Mexico",
-    "Population": 115231,
+    "Population": 129166028,
     "GDP per capita": 21363,
     "Life expectancy": 75,
     "ISO-code": "MEX",
@@ -801,7 +793,7 @@
   },
   {
     "Country": "Micronesia",
-    "Population": 4032294,
+    "Population": 115231,
     "GDP per capita": 3657,
     "Life expectancy": 67.8,
     "ISO-code": "FSM",
@@ -809,7 +801,7 @@
   },
   {
     "Country": "Moldova",
-    "Population": 3287242,
+    "Population": 4032294,
     "GDP per capita": 8161,
     "Life expectancy": 71.8,
     "ISO-code": "MDA",
@@ -817,7 +809,7 @@
   },
   {
     "Country": "Mongolia",
-    "Population": 628080,
+    "Population": 3287242,
     "GDP per capita": 15089,
     "Life expectancy": 69.7,
     "ISO-code": "MNG",
@@ -825,7 +817,7 @@
   },
   {
     "Country": "Montenegro",
-    "Population": 36985624,
+    "Population": 628080,
     "GDP per capita": 21977,
     "Life expectancy": 76.8,
     "ISO-code": "MNE",
@@ -833,7 +825,7 @@
   },
   {
     "Country": "Morocco",
-    "Population": 31398811,
+    "Population": 36985624,
     "GDP per capita": 9667,
     "Life expectancy": 76.5,
     "ISO-code": "MAR",
@@ -841,7 +833,7 @@
   },
   {
     "Country": "Mozambique",
-    "Population": 54473253,
+    "Population": 31398811,
     "GDP per capita": 1372,
     "Life expectancy": 60.2,
     "ISO-code": "MOZ",
@@ -849,7 +841,7 @@
   },
   {
     "Country": "Myanmar",
-    "Population": 2548663,
+    "Population": 54473253,
     "GDP per capita": 7220,
     "Life expectancy": 66.9,
     "ISO-code": "MMR",
@@ -857,7 +849,7 @@
   },
   {
     "Country": "Namibia",
-    "Population": 29225196,
+    "Population": 2548663,
     "GDP per capita": 11451,
     "Life expectancy": 63.4,
     "ISO-code": "NAM",
@@ -865,7 +857,7 @@
   },
   {
     "Country": "Nepal",
-    "Population": 17141544,
+    "Population": 29225196,
     "GDP per capita": 3550,
     "Life expectancy": 70.5,
     "ISO-code": "NPL",
@@ -873,7 +865,7 @@
   },
   {
     "Country": "Netherlands",
-    "Population": 4829021,
+    "Population": 17141544,
     "GDP per capita": 60299,
     "Life expectancy": 82.1,
     "ISO-code": "NLD",
@@ -881,7 +873,7 @@
   },
   {
     "Country": "New Zealand",
-    "Population": 6638075,
+    "Population": 4829021,
     "GDP per capita": 42045,
     "Life expectancy": 82.1,
     "ISO-code": "NZL",
@@ -889,7 +881,7 @@
   },
   {
     "Country": "Nicaragua",
-    "Population": 24346468,
+    "Population": 6638075,
     "GDP per capita": 5297,
     "Life expectancy": 74.3,
     "ISO-code": "NIC",
@@ -897,7 +889,7 @@
   },
   {
     "Country": "Niger",
-    "Population": 206984347,
+    "Population": 24346468,
     "GDP per capita": 1152,
     "Life expectancy": 62,
     "ISO-code": "NER",
@@ -905,7 +897,7 @@
   },
   {
     "Country": "Nigeria",
-    "Population": 25798588,
+    "Population": 206984347,
     "GDP per capita": 6172,
     "Life expectancy": 54.3,
     "ISO-code": "NGA",
@@ -1009,7 +1001,7 @@
   },
   {
     "Country": "Romania",
-    "Population": 896422,
+    "Population": 19214608,
     "GDP per capita": 30820,
     "Life expectancy": 75.9,
     "ISO-code": "ROU",
@@ -1017,7 +1009,7 @@
   },
   {
     "Country": "Russia",
-    "Population": 19214608,
+    "Population": 145945524,
     "GDP per capita": 2642,
     "Life expectancy": 72.4,
     "ISO-code": "RUS",
@@ -1025,19 +1017,11 @@
   },
   {
     "Country": "Rwanda",
-    "Population": 145945524,
+    "Population": 13005303,
     "GDP per capita": 31950,
     "Life expectancy": 68.7,
     "ISO-code": "RWA",
     "Continent": "Africa"
-  },
-  {
-    "Country": "Saint Kitts and Nevis",
-    "Population": 13005303,
-    "GDP per capita": 15159,
-    "Life expectancy": 74.6,
-    "ISO-code": "KNA",
-    "Continent": "North Africa"
   },
   {
     "Country": "Saint Lucia",
