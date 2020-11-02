@@ -1,0 +1,142 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": "container",
+  "title": "GDP per capita vs Net migrants 2020",
+  "description": "A scatterplot showing gdp per capita and net migrants.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/BrianMwangi74/FIT3179_A2/master/data/gdp_migrants.json"
+  },
+  "params": [
+    {
+      "name": "Continent_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "labels": [
+          "Show All",
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "name": "Continent Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+    }
+  ],
+  "encoding":{
+    "x": {"field": "GDP per capita", "type": "quantitative","title":"GDP per capita ($USD)"},
+    "y": {
+      "field": "Migrants (net)",
+      "type": "quantitative",
+      "axis": {"tickCount": 10}
+    }
+  },
+  "layer":[
+  {"selection": {
+    "net_highlight": {
+      "type": "multi",
+      "fields": ["Net migrants"],
+      "bind": "legend"
+    }
+  },
+  "mark": "circle",
+  "encoding": {
+      "color": {
+      "field": "Net migrants",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Net Positive", "Net Zero", "Net Negative"],
+        "range": ["#4d79a8", "#f4861a", "#e45c5b"]
+      }
+    },
+    "opacity": {
+      "condition": {"selection": "net_highlight", "value": 1},
+      "value": 0.15
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Continent", "type": "nominal"},
+      {"field": "GDP per capita", "type": "quantitative"},
+      {"field": "Migrants (net)", "type": "quantitative"}
+    ]
+  }
+  },
+  {
+     "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": -10,
+        "dy":10,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "ISO-code", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['Country'] == 'United States' || datum['Country'] == 'Macau' || datum['Country'] == 'Venezuela' || datum['Country'] == 'China'|| datum['Country'] == 'India'|| datum['Country'] == 'Germany'",
+            "value": 1
+          },
+          "value": 0
+        },
+        "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Continent", "type": "nominal"},
+      {"field": "GDP per capita", "type": "quantitative"},
+      {"field": "Migrants (net)", "type": "quantitative"}
+    ]
+      }
+  }
+],
+"config":{
+  "background": "#fff",
+  "arc": {"fill": "#3e5c69"},
+  "area": {"fill": "#3e5c69"},
+  "line": {"stroke": "#3e5c69"},
+  "path": {"stroke": "#3e5c69"},
+  "rect": {"fill": "#3e5c69"},
+  "shape": {"stroke": "#3e5c69"},
+  "symbol": {"fill": "#3e5c69"},
+  "axis": {
+    "domainWidth": 0.5,
+    "grid": true,
+    "labelPadding": 2,
+    "tickSize": 5,
+    "tickWidth": 0.5,
+    "titleFontWeight": "normal"
+  },
+  "axisBand": {"grid": false},
+  "axisX": {"gridWidth": 0.2},
+  "axisY": {"gridDash": [3], "gridWidth": 0.4},
+  "legend": {"labelFontSize": 11, "padding": 1, "symbolType": "square"},
+  "range": {
+    "category": [
+      "#3e5c69",
+      "#6793a6",
+      "#182429",
+      "#0570b0",
+      "#3690c0",
+      "#74a9cf",
+      "#a6bddb",
+      "#e2ddf2"
+    ]
+  }
+}
+}

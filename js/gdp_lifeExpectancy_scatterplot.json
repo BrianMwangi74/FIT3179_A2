@@ -1,0 +1,250 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "width": "container",
+    "title": "GDP per capita vs Life expectancy 2020",
+    "description": "A scatterplot showing horsepower and miles per gallons for various cars.",
+    "data": {
+        "url": "https://raw.githubusercontent.com/BrianMwangi74/FIT3179_A2/master/data/gdp_lifeExpectancy.json"
+    },
+    "params": [
+        {
+            "name": "Continent_selection",
+            "bind": {
+                "input": "select",
+                "options": [
+          null,
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+                "labels": [
+          "Show All",
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+                "name": "Continent Selection: "
+            }
+    }
+  ],
+    "transform": [
+        {
+            "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+    }
+  ],
+    "encoding": {
+        "x": {
+            "field": "GDP per capita",
+            "type": "quantitative",
+            "title": "GDP per capita ($USD)"
+        },
+        "y": {
+            "field": "Life expectancy",
+            "type": "quantitative",
+            "axis": {
+                "tickCount": 10
+            },
+            "scale": {
+                "type": "linear",
+                "domain": [50, 90]
+            }
+        }
+
+    },
+    "layer": [
+        {
+            "selection": {
+                "continent_highlight": {
+                    "type": "multi",
+                    "fields": ["Continent"],
+                    "bind": "legend"
+                }
+            },
+            "mark": "circle",
+            "encoding": {
+                "color": {
+                    "field": "Continent",
+                    "type": "nominal",
+                    "scale": {
+                        "domain": [
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+                        "range": [
+          "#e41a1c",
+          "#984ea3",
+          "#ff7f00",
+          "#26B6E6",
+          "#377eb8",
+          "#a65628"
+        ]
+                    }
+                },
+                "size": {
+                    "field": "Population (2020)",
+                    "title": "Population",
+                    "type": "quantitative",
+                    "scale": {
+                        "type": "threshold",
+                        "domain": [1000000, 10000000, 100000000, 300000000, 500000000],
+                        "range": [10, 20, 100, 200, 400]
+                    },
+                    "legend": {
+                        "format": ".1s"
+                    }
+                },
+
+                "opacity": {
+                    "condition": {
+                        "selection": "continent_highlight",
+                        "value": 0.7
+                    },
+                    "value": 0.15
+                },
+                "tooltip": [
+                    {
+                        "field": "Country",
+                        "type": "nominal"
+                    },
+                    {
+                        "field": "Continent",
+                        "type": "nominal"
+                    },
+                    {
+                        "field": "Population (2020)",
+                        "title": "Population",
+                        "type": "quantitative"
+                    },
+
+                    {
+                        "field": "GDP per capita",
+                        "type": "quantitative"
+                    },
+                    {
+                        "field": "Life expectancy",
+                        "type": "quantitative"
+                    }
+    ]
+            }
+  },
+        {
+            "mark": {
+                "type": "text",
+                "align": "left",
+                "baseline": "middle",
+                "dx": 10,
+                "fontSize": 11.5,
+                "fontStyle": "italic"
+            },
+            "encoding": {
+                "text": {
+                    "field": "ISO-code",
+                    "type": "nominal"
+                },
+                "color": {
+                    "value": "black"
+                },
+                "opacity": {
+                    "condition": {
+                        "test": "datum['Country'] == 'Sierra Leone' || datum['Country'] == 'Singapore' || datum['Country'] == 'United States'|| datum['Country'] == 'Australia'",
+                        "value": 1
+                    },
+                    "value": 0
+                },
+                "tooltip": [
+                    {
+                        "field": "Country",
+                        "type": "nominal"
+                    },
+                    {
+                        "field": "Continent",
+                        "type": "nominal"
+                    },
+                    {
+                        "field": "Population (2020)",
+                        "title": "Population",
+                        "type": "quantitative"
+                    },
+
+                    {
+                        "field": "GDP per capita",
+                        "type": "quantitative"
+                    },
+                    {
+                        "field": "Life expectancy",
+                        "type": "quantitative"
+                    }
+    ]
+            }
+  }
+  ],
+    "config": {
+        "background": "#fff",
+        "arc": {
+            "fill": "#3e5c69"
+        },
+        "area": {
+            "fill": "#3e5c69"
+        },
+        "line": {
+            "stroke": "#3e5c69"
+        },
+        "path": {
+            "stroke": "#3e5c69"
+        },
+        "rect": {
+            "fill": "#3e5c69"
+        },
+        "shape": {
+            "stroke": "#3e5c69"
+        },
+        "symbol": {
+            "fill": "#3e5c69"
+        },
+        "axis": {
+            "domainWidth": 0.5,
+            "grid": true,
+            "labelPadding": 2,
+            "tickSize": 5,
+            "tickWidth": 0.5,
+            "titleFontWeight": "normal"
+        },
+        "axisBand": {
+            "grid": false
+        },
+        "axisX": {
+            "gridWidth": 0.2
+        },
+        "axisY": {
+            "gridDash": [3],
+            "gridWidth": 0.4
+        },
+        "legend": {
+            "labelFontSize": 11,
+            "padding": 1,
+            "symbolType": "square"
+        },
+        "range": {
+            "category": [
+      "#3e5c69",
+      "#6793a6",
+      "#182429",
+      "#0570b0",
+      "#3690c0",
+      "#74a9cf",
+      "#a6bddb",
+      "#e2ddf2"
+    ]
+        }
+    }
+}
