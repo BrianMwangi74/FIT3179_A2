@@ -1,83 +1,383 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
-  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
-  <!-- Import vega-embed -->
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-  
-  <!-- CSS file -->
-  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
-  
+    <title>Multiple Visualisations | An Example</title>
+    <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+    <!-- Import vega-embed -->
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <!-- Import pure.css -->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap" rel="stylesheet">
+
+    <!-- custom style -->
+    <style>
+        * {
+            font-family: 'Helvetica', sans-serif;
+        }
+
+        h1 {
+            font-weight: 900;
+        }
+
+        body {
+            background-color: lightgray;
+        }
+
+        .page {
+            width: auto;
+            height: auto;
+            background-color: white;
+            margin: auto;
+            padding: 50px;
+            padding-top: 35px;
+        }
+
+        .vis-container {
+            width: 100%;
+        }
+
+        .description h2,
+        h1 {
+            margin-top: 0px;
+        }
+
+        .description-left {
+            padding-right: 20px;
+        }
+
+        .pure-g {
+            margin-bottom: 25px;
+        }
+
+        .pure-map {
+            margin-bottom: 25px;
+        }
+
+        .small-font {
+            font-size: 14px;
+            margin-top: 30px;
+            margin-bottom: 0px;
+            height: 0px;
+        }
+
+        .buttons {
+            background-color: #e7e7e7;
+            border: none;
+            color: black;
+            padding: 12px 28px;
+            border-radius: 2px;
+            transition-duration: 0.4s;
+
+        }
+
+        .buttons:hover {
+            background-color: #00b4ff;
+            /* Blue */
+            color: white;
+        }
+
+        #hidden_section {
+            padding-top: 35px;
+        }
+
+        #hidden_section2 {
+            padding-top: 35px;
+        }
+
+        #hidden_section3 {
+            padding-top: 35px;
+        }
+
+        #title {
+            text-align: center;
+        }
+
+        #top_subheading {
+            text-align: center;
+        }
+    </style>
 </head>
+
 <body>
 
-<h2>A collection of visualisations</h2>
+    <div class="page">
 
-<div id="choropleth_map"></div>
-<div id="lifeExp_scatter_plot"></div>
-<div id="gdp_area_chart"></div>
-<div id="lifeExp_area_chart"></div>
-<div id="suicideRate_scatter_plot"></div>
-<div id="fertRate_scatter_plot"></div>
-<div id="migrants_scatter_plot"></div>
-<div id="meat_scatter_plot"></div>
-  
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h1 id="title">GDP & Quality of life 2020 </h1>
+                <p id="top_subheading">The effect of gross domestic product (GDP) on quality of life indices.</p>
+            </div>
+        </div>
+
+        <div class="pure-map">
+
+            <div id="vis1" class="vis-container"></div>
+
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1-3">
+                <div class="description description-left">
+                    <h2>GDP & Life expectancy over time</h2>
+                    <p>From the data it can be seen that both global GDP per capita (adjusted for inflation) and life expectancy have grown significantly in the time period between 1960 – 2019. This suggests there is some correlation between the two, which will be seen below. </p>
+                </div>
+            </div>
+            <div class="pure-u-1-3">
+                <div id="vis2" class="vis-container"></div>
+            </div>
+            <div class="pure-u-1-3">
+                <div id="vis3" class="vis-container"></div>
+            </div>
+
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1-3">
+                <div class="description description-left">
+                    <h2>Life expectancy & Fertility</h2>
+                    <p>Comparing GDP to life expectancy shows a clear trend with countries that have a high GDP also having high life expectancy, whereas among countries with a low GDP there is a greater proportion that also have low life expectancy. The population data shows the top 5 countries in terms of GDP per capita also have small populations.
+                    </p>
+                    <p> The fertility rate chart shows a similar correlation between GDP and fertility. The y axis also shows developing countries have the highest fertility rates.
+                    </p>
+                </div>
+            </div>
+            <div class="pure-u-1-3">
+                <div id="vis4" class="vis-container"></div>
+            </div>
+            <div class="pure-u-1-3">
+                <div id="vis5" class="vis-container"></div>
+            </div>
+
+        </div>
+
+        <div class="pure-g">
+            <div id="buttons_row" class="pure-u-1-1">
+                <h2>GDP explored further</h2>
+                <p>This section examines three more indices to see to what extent a country's GDP affects other aspects of life such as suicide rate, meat consumption and migration.</p>
+                <p>Press the buttons below to expand the scatterplots and view more information.</p>
+                <button class="buttons" onclick="myFunction3()">GDP vs Suicide Rate</button>
+                <button class="buttons" onclick="myFunction2()">GDP vs Meat Consumption</button>
+                <button class="buttons" onclick="myFunction()">GDP vs Migrants</button>
+                <button class="buttons" onclick="myFunction5()">Open All</button>
+                <button class="buttons" onclick="myFunction4()">Close All</button>
+            </div>
+        </div>
+
+
+        <div class="pure-g">
+
+            <div class="pure-u-1-3">
+                <div id="vis6" class="vis-container"></div>
+            </div>
+            <div class="pure-u-1-3">
+                <div id="vis7" class="vis-container"></div>
+            </div>
+            <div class="pure-u-1-3">
+                <div id="vis8" class="vis-container"></div>
+            </div>
+
+        </div>
+
+        <div id="hidden_section3" class="pure-g">
+            <div class="pure-u-1-3">
+                <div class="description description-left">
+                    <h2>GDP & Suicide rate</h2>
+                    <p>Suicide rate has the widest spread of the indices with the data being much less strongly correlated than the other fields. Still, a trend can be observed where the majority of upper quartile suicide rate values are in countries with a GDP per capita lower than $50000.</p>
+                </div>
+                <button class="buttons" onclick="myFunction3()">Close Section</button>
+
+            </div>
+            <div class="pure-u-2-3">
+                <div id="vis11" class="vis-container"></div>
+            </div>
+
+        </div>
+
+
+        <div id="hidden_section2" class="pure-g">
+            <div class="pure-u-1-3">
+                <div class="description description-left">
+                    <h2>GDP & Meat consumption</h2>
+                    <p>Comparing GDP to meat consumption reveals a strong correlation between the two. As expected, developed countries consume more meat per capita. The majority of countries below the mean of meat consumption are in Asia and Africa, while those above the mean are in North America and Europe. Only seven European countries in the dataset are located below the mean.</p>
+                </div>
+                <button class="buttons" onclick="myFunction2()">Close Section</button>
+
+            </div>
+            <div class="pure-u-2-3">
+                <div id="vis10" class="vis-container"></div>
+            </div>
+
+        </div>
+
+        <div id="hidden_section" class="pure-g">
+            <div class="pure-u-1-3">
+                <div class="description description-left">
+                    <h2>GDP & Migration</h2>
+                    <p>The number of countries with positive and negative net migrants is evenly distributed until around the $44000 threshold where all countries above that point have wither net zero or net positive migration. This means more migrants enter the country than leave it. Outlier countries such as the United States, China and India are most obvious on this chart. </p>
+                </div>
+                <button class="buttons" onclick="myFunction()">Close section</button>
+
+            </div>
+            <div class="pure-u-2-3">
+                <div id="vis9" class="vis-container"></div>
+            </div>
+
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1-1 small-font">
+                <p>Created by Brian Mwangi © 2020 </p>
+            </div>
+        </div>
 
 
 
+    </div>
 
-<script type="text/javascript">
-  
-  var vis1 = "js/gdp_choropleth.json";
-  
-  vegaEmbed('#choropleth_map', vis1).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var vis2 = "js/gdp_lifeExpectancy_scatterplot.json";
-  
-  vegaEmbed('#lifeExp_scatter_plot', vis2).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var vis3 = "js/gdp_time.json";
-  
-  vegaEmbed('#gdp_area_chart', vis3).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var vis4 = "js/lifeExp_time.json";
-  
-  vegaEmbed('#lifeExp_area_chart', vis4).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var vis5 = "js/suicideRate_scatterplot.json";
-  
-  vegaEmbed('#suicideRate_scatter_plot', vis5).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var vis6 = "js/fertility_scatterplot.json";
-  
-  vegaEmbed('#fertRate_scatter_plot', vis6).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var vis7 = "js/netMigrants_scatterplot.json";
-  
-  vegaEmbed('#migrants_scatter_plot', vis7).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var vis8 = "js/meat_scatterplot.json";
-  
-  vegaEmbed('#meat_scatter_plot', vis8).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error); 
-  
-</script>
 
+
+    <script type="text/javascript">
+        var specVis1 = "js/sample_lineChart.json";
+        var map = "js/gdp_choropleth.json";
+        var gdp_time = "js/gdp_time.json";
+        var lifeExp_time = "js/lifeExp_time.json";
+        var gdp_lifeExp = "js/gdp_lifeExpectancy_scatterplot.json";
+        var gdp_fertility = "js/fertility_scatterplot.json";
+        var gdp_meat = "js/meat_scatterplot.json";
+        var gdp_suicideRate = "js/suicideRate_scatterplot.json";
+        var gdp_migrants = "js/netMigrants_scatterplot.json";
+        var fixedMigrants = "js/netMigrants_scatterplot - fixed.json";
+        var fixedMeat = "js/meat_scatterplot - fixed.json";
+        var fixedSuicideRate = "js/suicideRate_scatterplot - fixed.json";
+
+        vegaEmbed('#vis1', map, {
+            "actions": false
+        }).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        vegaEmbed('#vis2', gdp_time, {
+            "actions": false
+        }).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        vegaEmbed('#vis3', lifeExp_time, {
+            "actions": false
+        }).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        vegaEmbed('#vis4', gdp_lifeExp, {
+            "actions": false
+        }).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        vegaEmbed('#vis5', gdp_fertility, {
+            "actions": false
+        }).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        vegaEmbed('#vis6', gdp_suicideRate, {
+            "actions": false
+        }).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        vegaEmbed('#vis7', gdp_meat, {
+            "actions": false
+        }).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        vegaEmbed('#vis8', gdp_migrants, {
+            "actions": false
+        }).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        vegaEmbed('#vis9', fixedMigrants, {
+            "actions": false
+        }).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        vegaEmbed('#vis10', fixedMeat, {
+            "actions": false
+        }).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        vegaEmbed('#vis11', fixedSuicideRate, {
+            "actions": false
+        }).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+
+        function myFunction() {
+            var x = document.getElementById("hidden_section");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+                document.getElementById("vis9").style.display = 'block';
+
+            } else {
+                x.style.display = "none";
+
+            }
+        }
+
+        function myFunction2() {
+            var x = document.getElementById("hidden_section2");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+
+            }
+        }
+
+        function myFunction3() {
+            var x = document.getElementById("hidden_section3");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+
+            }
+        }
+
+        function myFunction4() {
+            document.getElementById("hidden_section").style.display = "none";
+            document.getElementById("hidden_section2").style.display = "none";
+            document.getElementById("hidden_section3").style.display = "none";
+
+        }
+
+        function myFunction5() {
+            document.getElementById("hidden_section").style.display = "block";
+            document.getElementById("hidden_section2").style.display = "block";
+            document.getElementById("hidden_section3").style.display = "block";
+
+        }
+
+
+        window.onload = function() {
+            document.getElementById("hidden_section").style.display = 'none';
+            document.getElementById("hidden_section2").style.display = 'none';
+            document.getElementById("hidden_section3").style.display = 'none';
+
+
+
+        };
+    </script>
 </body>
+
 </html>
